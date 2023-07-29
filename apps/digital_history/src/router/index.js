@@ -1,4 +1,3 @@
-import React from "react";
 import { Route, Routes } from "react-router-dom";
 import { Intro } from "../pages/01Intro";
 import { DigitalHistory } from "../pages/02DigitalHistory";
