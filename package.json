@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint"
+  },
+  "author": "Nathan Michalewicz",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-custom": "*",
+    "eslint": "^8.46.0",
+    "prettier": "^3.0.0",
+    "turbo": "^1.10.12"
+  }
+}
