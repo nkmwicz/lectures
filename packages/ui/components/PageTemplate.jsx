@@ -5,16 +5,20 @@ import {
   cacheImages,
   Spinner,
 } from "@nkmwicz/reactpresentation";
-import propTypes from "prop-types";
+import PropTypes from "prop-types";
+import { useRecoilState, useRecoilValue } from "recoil";
+import { slideState, allSlidesState } from "ui";
 
-export function PageTemplate({ url, slide, setSlides }) {
+export function PageTemplate({ url }) {
   const [isLoading, setIsLoading] = React.useState(true);
+  const slide = useRecoilValue(slideState);
+  const [allSlides, setAllSlides] = useRecoilState(allSlidesState);
 
   React.useEffect(() => {
     async function fetchSlides() {
       const res = await fetch(url);
       const data = await res.json();
-      setSlides(data.slides);
+      setAllSlides(data.slides);
       await cacheImages(data.images);
       setIsLoading(false);
     }
@@ -29,7 +33,5 @@ export function PageTemplate({ url, slide, setSlides }) {
 }
 
 PageTemplate.propTypes = {
-  url: propTypes.string.isRequired,
-  slide: propTypes.object.isRequired,
-  setSlides: propTypes.func.isRequired,
+  url: PropTypes.string.isRequired,
 };
