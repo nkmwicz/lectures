@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function Videogames({ slide, setSlides }) {
+export function Videogames() {
   return (
     <>
       <Helmet>
@@ -13,16 +12,7 @@ export function Videogames({ slide, setSlides }) {
         />
         <meta name="keywords" content="video games, digital history." />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/24-videogames.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/24-videogames.json" />
     </>
   );
 }
-
-Videogames.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};

@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function OpenSourceData({ slide, setSlides }) {
+export function OpenSourceData() {
   return (
     <>
       <Helmet>
@@ -12,16 +11,7 @@ export function OpenSourceData({ slide, setSlides }) {
           content="A presentation on the role of Open Source and different data types for the Digital History course at Queens University of Charlotte."
         />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/06-open-source-data.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/06-open-source-data.json" />
     </>
   );
 }
-
-OpenSourceData.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};

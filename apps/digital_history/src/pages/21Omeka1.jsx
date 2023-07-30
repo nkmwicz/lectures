@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function Omeka1({ slide, setSlides }) {
+export function Omeka1() {
   return (
     <>
       <Helmet>
@@ -16,16 +15,7 @@ export function Omeka1({ slide, setSlides }) {
           content="Omeka, digital public history, digital history."
         />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/21-omeka1.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/21-omeka1.json" />
     </>
   );
 }
-
-Omeka1.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};

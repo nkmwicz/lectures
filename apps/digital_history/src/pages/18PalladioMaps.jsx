@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function PalladioMaps({ slide, setSlides }) {
+export function PalladioMaps() {
   return (
     <>
       <Helmet>
@@ -16,16 +15,7 @@ export function PalladioMaps({ slide, setSlides }) {
           content="Story Analysis, maps, Palladio, digital history."
         />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/18-palladio-maps.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/18-palladio-maps.json" />
     </>
   );
 }
-
-PalladioMaps.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};

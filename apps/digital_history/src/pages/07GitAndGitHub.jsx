@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function GitAndGitHub({ slide, setSlides }) {
+export function GitAndGitHub() {
   return (
     <>
       <Helmet>
@@ -12,16 +11,7 @@ export function GitAndGitHub({ slide, setSlides }) {
           content="A presentation on source control, Git, and GitHub for the Digital History course at Queens University of Charlotte."
         />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/07-git-and-github.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/07-git-and-github.json" />
     </>
   );
 }
-
-GitAndGitHub.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};

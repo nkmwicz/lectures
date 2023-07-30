@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function Crowdsourcing({ slide, setSlides }) {
+export function Crowdsourcing() {
   return (
     <>
       <Helmet>
@@ -13,16 +12,7 @@ export function Crowdsourcing({ slide, setSlides }) {
         />
         <meta name="keywords" content="crowdsourcing, digital history." />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/23-crowdsourcing.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/23-crowdsourcing.json" />
     </>
   );
 }
-
-Crowdsourcing.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};

@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function StoryMaps({ slide, setSlides }) {
+export function StoryMaps() {
   return (
     <>
       <Helmet>
@@ -16,16 +15,7 @@ export function StoryMaps({ slide, setSlides }) {
           content="Story Maps, Knight Lab, digital history."
         />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/17-storymaps.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/17-storymaps.json" />
     </>
   );
 }
-
-StoryMaps.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};

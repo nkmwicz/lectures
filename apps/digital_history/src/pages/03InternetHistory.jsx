@@ -1,8 +1,7 @@
 import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
-import PropTypes from "prop-types";
 
-export function InternetHistory({ slide, setSlides }) {
+export function InternetHistory() {
   return (
     <>
       <Helmet>
@@ -12,16 +11,7 @@ export function InternetHistory({ slide, setSlides }) {
           content="A presentation for on the history of the internet and the field of digital history for the Digital History course at Queens University of Charlotte."
         />
       </Helmet>
-      <PageTemplate
-        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/03-internet.json"
-        slide={slide}
-        setSlides={setSlides}
-      />
+      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/03-internet.json" />
     </>
   );
 }
-
-InternetHistory.propTypes = {
-  slide: PropTypes.object,
-  setSlides: PropTypes.func.isRequired,
-};
