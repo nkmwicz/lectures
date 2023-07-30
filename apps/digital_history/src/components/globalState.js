@@ -14,6 +14,7 @@ export const slideState = selector({
   key: "slideState",
   get: ({ get }) => {
     const index = get(slideIndexState);
-    return get(allSlidesState)[index];
+    const slides = get(allSlidesState);
+    return slides[index];
   },
 });
