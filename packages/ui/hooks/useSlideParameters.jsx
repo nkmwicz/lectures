@@ -13,9 +13,6 @@ export function useSlideParameters({ allSlides, slideIndex, setSlideIndex }) {
   React.useEffect(() => {
     if (isFirstRender.current) {
       if (allSlides.length > 0) {
-        console.log("param", param);
-        console.log("allSlides", allSlides.length);
-        console.log("slideIndex", slideIndex);
         if (param === null || param === undefined) {
           if (slideIndex === 0) {
             setSearchParams({ slide: 0 });
@@ -53,7 +50,6 @@ export function useSlideParameters({ allSlides, slideIndex, setSlideIndex }) {
 
   React.useEffect(() => {
     if (!isFirstRender.current) {
-      console.log("I ran");
       setSearchParams({ slide: slideIndex });
     }
   }, [slideIndex]);
