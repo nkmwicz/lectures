@@ -22,6 +22,6 @@ export function PostgresqlDesign({ slide, setSlides }) {
 }
 
 PostgresqlDesign.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

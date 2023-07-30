@@ -22,6 +22,6 @@ export function OpenSourceData({ slide, setSlides }) {
 }
 
 OpenSourceData.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

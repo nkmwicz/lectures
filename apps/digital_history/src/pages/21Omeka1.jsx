@@ -26,6 +26,6 @@ export function Omeka1({ slide, setSlides }) {
 }
 
 Omeka1.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

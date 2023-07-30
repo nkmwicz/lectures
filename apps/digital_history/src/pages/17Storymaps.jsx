@@ -26,6 +26,6 @@ export function StoryMaps({ slide, setSlides }) {
 }
 
 StoryMaps.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

@@ -21,6 +21,6 @@ export function DigitalHistory({ slide, setSlides }) {
 }
 
 DigitalHistory.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

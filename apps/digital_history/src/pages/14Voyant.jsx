@@ -22,6 +22,6 @@ export function Voyant({ slide, setSlides }) {
 }
 
 Voyant.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

@@ -22,6 +22,6 @@ export function OCRTextSearch({ slide, setSlides }) {
 }
 
 OCRTextSearch.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

@@ -23,6 +23,6 @@ export function Videogames({ slide, setSlides }) {
 }
 
 Videogames.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

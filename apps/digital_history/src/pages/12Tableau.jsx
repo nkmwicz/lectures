@@ -22,6 +22,6 @@ export function Tableau({ slide, setSlides }) {
 }
 
 Tableau.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

@@ -26,6 +26,6 @@ export function PublicDigital({ slide, setSlides }) {
 }
 
 PublicDigital.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

@@ -22,6 +22,6 @@ export function TradVDigital({ slide, setSlides }) {
 }
 
 TradVDigital.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

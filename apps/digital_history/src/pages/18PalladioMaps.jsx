@@ -26,6 +26,6 @@ export function PalladioMaps({ slide, setSlides }) {
 }
 
 PalladioMaps.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };

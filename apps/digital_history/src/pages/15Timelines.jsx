@@ -23,6 +23,6 @@ export function Timelines({ slide, setSlides }) {
 }
 
 Timelines.propTypes = {
-  slide: PropTypes.object.isRequired,
+  slide: PropTypes.object,
   setSlides: PropTypes.func.isRequired,
 };
