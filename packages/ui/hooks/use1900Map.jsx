@@ -1,8 +1,6 @@
 import flip from "@turf/flip";
-import { useRecoilState } from "recoil";
-import { map1900State } from "../components/globalState";
+import { useRecoilState, atom } from "recoil";
 import { useEffect } from "react";
-import { atom } from "recoil";
 
 export const map1900State = atom({
   key: "map1900State",
