@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import { useRecoilState, useRecoilValue } from "recoil";
-import { slideState, allSlidesState } from "../components/globalState";
+import { slideState, allSlidesState } from "ui";
 
 import { Intro } from "../pages/01Intro";
 import { DigitalHistory } from "../pages/02DigitalHistory";
