@@ -1,8 +1,8 @@
-import React from "react";
-import { PageTemplate } from "../components/PageTemplate";
+import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
+import PropTypes from "prop-types";
 
-export function PostgresqlQueries() {
+export function PostgresqlQueries({ slide, setSlides }) {
   return (
     <>
       <Helmet>
@@ -12,7 +12,16 @@ export function PostgresqlQueries() {
           content="A presentation on querying and viewing PostgreSQL data with and without DBeaver for the Digital History course at Queens University of Charlotte."
         />
       </Helmet>
-      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/11-postgresql-queries.json" />
+      <PageTemplate
+        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/11-postgresql-queries.json"
+        slide={slide}
+        setSlides={setSlides}
+      />
     </>
   );
 }
+
+PostgresqlQueries.propTypes = {
+  slide: PropTypes.object.isRequired,
+  setSlides: PropTypes.func.isRequired,
+};

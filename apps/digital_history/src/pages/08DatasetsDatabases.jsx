@@ -1,8 +1,8 @@
-import React from "react";
-import { PageTemplate } from "../components/PageTemplate";
+import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
+import PropTypes from "prop-types";
 
-export function DatasetsDatabases() {
+export function DatasetsDatabases({ slide, setSlides }) {
   return (
     <>
       <Helmet>
@@ -12,7 +12,16 @@ export function DatasetsDatabases() {
           content="A presentation on Datasets and Databases for the Digital History course at Queens University of Charlotte."
         />
       </Helmet>
-      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/08-datasets-databases.json" />
+      <PageTemplate
+        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/08-datasets-databases.json"
+        slide={slide}
+        setSlides={setSlides}
+      />
     </>
   );
 }
+
+DatasetsDatabases.propTypes = {
+  slide: PropTypes.object.isRequired,
+  setSlides: PropTypes.func.isRequired,
+};

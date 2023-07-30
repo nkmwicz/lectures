@@ -1,8 +1,8 @@
-import React from "react";
-import { PageTemplate } from "../components/PageTemplate";
+import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
+import PropTypes from "prop-types";
 
-export function Timelines() {
+export function Timelines({ slide, setSlides }) {
   return (
     <>
       <Helmet>
@@ -13,7 +13,16 @@ export function Timelines() {
         />
         <meta name="keywords" content="Timelines, digital history." />
       </Helmet>
-      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/15-timelines.json" />
+      <PageTemplate
+        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/15-timelines.json"
+        slide={slide}
+        setSlides={setSlides}
+      />
     </>
   );
 }
+
+Timelines.propTypes = {
+  slide: PropTypes.object.isRequired,
+  setSlides: PropTypes.func.isRequired,
+};

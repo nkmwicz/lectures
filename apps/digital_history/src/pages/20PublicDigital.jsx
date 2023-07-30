@@ -1,8 +1,8 @@
-import React from "react";
-import { PageTemplate } from "../components/PageTemplate";
+import { PageTemplate } from "ui";
 import { Helmet } from "react-helmet-async";
+import PropTypes from "prop-types";
 
-export function PublicDigital() {
+export function PublicDigital({ slide, setSlides }) {
   return (
     <>
       <Helmet>
@@ -16,7 +16,16 @@ export function PublicDigital() {
           content="Public Digital History, digital history."
         />
       </Helmet>
-      <PageTemplate url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/20-public-digital.json" />
+      <PageTemplate
+        url="https://raw.githubusercontent.com/nkmwicz/teach-lectures/master/digital-history/20-public-digital.json"
+        slide={slide}
+        setSlides={setSlides}
+      />
     </>
   );
 }
+
+PublicDigital.propTypes = {
+  slide: PropTypes.object.isRequired,
+  setSlides: PropTypes.func.isRequired,
+};
