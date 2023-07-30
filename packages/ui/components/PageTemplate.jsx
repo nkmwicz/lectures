@@ -30,6 +30,6 @@ export function PageTemplate({ url, slide, setSlides }) {
 
 PageTemplate.propTypes = {
   url: propTypes.string.isRequired,
-  slide: propTypes.string.isRequired,
+  slide: propTypes.object.isRequired,
   setSlides: propTypes.func.isRequired,
 };
