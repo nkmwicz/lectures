@@ -1,4 +1,4 @@
-export const pages = [
+export const Pages = [
   { title: "Intro", path: "/" },
   { title: "Digital History", path: "/digital-history" },
   { title: "Internet History", path: "/internet-history" },
