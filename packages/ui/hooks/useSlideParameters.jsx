@@ -11,11 +11,7 @@ export function useSlideParameters({ allSlides, slideIndex, setSlideIndex }) {
   const isFirstRender = React.useRef(true);
 
   React.useEffect(() => {
-    console.log("useSlideParameters", param);
-    console.log("allSlides", allSlides.length);
-    console.log("slideIndex", slideIndex);
     if (isFirstRender.current) {
-      isFirstRender.current = false;
       if (allSlides.length > 0) {
         console.log("param", param);
         console.log("allSlides", allSlides.length);
@@ -23,35 +19,41 @@ export function useSlideParameters({ allSlides, slideIndex, setSlideIndex }) {
         if (param === null || param === undefined) {
           if (slideIndex === 0) {
             setSearchParams({ slide: 0 });
+            isFirstRender.current = false;
             return;
           }
         }
         if (param > allSlides.length - 1) {
           setSlideIndex(allSlides.length - 1);
           setSearchParams({ slide: allSlides.length - 1 });
+          isFirstRender.current = false;
           return;
         }
         if (param < 0) {
           setSlideIndex(0);
           setSearchParams({ slideIndex: 0 });
+          isFirstRender.current = false;
           return;
         }
         if (!isNumber(param)) {
           setSlideIndex(parseInt(0));
           setSearchParams({ slide: 0 });
+          isFirstRender.current = false;
           return;
         }
         if (param !== null || param !== undefined) {
           setSlideIndex(parseInt(param));
           setSearchParams({ slide: param });
+          isFirstRender.current = false;
           return;
         }
       }
     }
-  }, [allSlides.length]);
+  }, [allSlides]);
 
   React.useEffect(() => {
     if (!isFirstRender.current) {
+      console.log("I ran");
       setSearchParams({ slide: slideIndex });
     }
   }, [slideIndex]);
