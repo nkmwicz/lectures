@@ -5,13 +5,18 @@ import { MapLabel } from "../MapLabel";
 import { LeafletMapBorders } from "./LeafletMapBorders";
 import { MapKey } from "../MapKey";
 import { LeafletMapLatLngIndicator } from "./LeafletMapLatLngIndicator";
+import "leaflet/dist/leaflet.css";
 
 export function LeafletMap({ mapCenter }) {
   const slide = useRecoilValue(slideState);
+  const mapStyles = {
+    height: "100%",
+    width: "100%",
+  };
 
   return (
     <>
-      <MapContainer center={mapCenter} className="mymap" zoom={5}>
+      <MapContainer center={mapCenter} style={mapStyles} zoom={5}>
         <LeafletMapBorders />
         <MapKey />
         <LeafletMapLatLngIndicator />
