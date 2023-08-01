@@ -5,6 +5,7 @@ export { Arrow } from "./components/Arrow";
 // Map Utils
 export { useSlideParameters } from "./hooks/useSlideParameters";
 export { useMap1900, map1900State } from "./hooks/Map1900Utils";
+export { useMap1914, map1914State } from "./hooks/Map1914Utils";
 
 // global State
 export {
