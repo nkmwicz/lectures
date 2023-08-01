@@ -22,5 +22,9 @@ export const slideState = selector({
 });
 
 // Leaflet State
+export const mapCenterState = atom({
+  key: "mapCenterState",
+  default: [41.9, 12.5],
+});
 
 // Deck.GL State
