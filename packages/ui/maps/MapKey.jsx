@@ -1,5 +1,5 @@
 import { useRecoilValue } from "recoil";
-import { slideState } from "./globalState";
+import { slideState } from "ui";
 import { useState } from "react";
 import { KeySVG } from "./KeySVG";
 

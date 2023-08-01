@@ -1,5 +1,5 @@
 import { useRecoilValue } from "recoil";
-import { slideState } from "./globalState";
+import { slideState } from "ui";
 
 export function MapLabel() {
   const slide = useRecoilValue(slideState);

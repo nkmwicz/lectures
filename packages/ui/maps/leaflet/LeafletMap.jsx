@@ -1,6 +1,6 @@
 import { MapContainer, Polygon, Popup, useMap } from "react-leaflet";
 import { useRecoilValue } from "recoil";
-import { map1900State, map1914State, slideState } from "./globalState";
+import { map1900State, map1914State, slideState } from "ui";
 import { MapLabel } from "../MapLabel";
 import { LeafletMapBorders } from "./LeafletMapBorders";
 import { MapKey } from "../MapKey";
