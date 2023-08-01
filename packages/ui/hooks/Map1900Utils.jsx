@@ -7,7 +7,7 @@ export const map1900State = atom({
   default: [],
 });
 
-export function use1900Map() {
+export function useMap1900() {
   const [map1900, setMap1900] = useRecoilState(map1900State);
   useEffect(() => {
     async function getMap() {
