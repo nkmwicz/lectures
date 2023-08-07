@@ -1,9 +1,13 @@
 import React from "react";
 import { useSearchParams } from "react-router-dom";
 import PropTypes from "prop-types";
+import { useRecoilValue, useRecoilState } from "recoil";
+import { slideIndexState, allSlidesState } from "ui";
 
-export function useSlideParameters({ allSlides, slideIndex, setSlideIndex }) {
+export function useSlideParameters() {
   const [searchParams, setSearchParams] = useSearchParams();
+  const allSlides = useRecoilValue(allSlidesState);
+  const [slideIndex, setSlideIndex] = useRecoilState(slideIndexState);
   const param = searchParams.get("slide");
   const isNumber = (value) => {
     return /^-?\d*\.?\d+$/.test(value);
@@ -57,8 +61,8 @@ export function useSlideParameters({ allSlides, slideIndex, setSlideIndex }) {
   return null;
 }
 
-useSlideParameters.propTypes = {
-  allSlides: PropTypes.array,
-  slideIndex: PropTypes.number.isRequired,
-  setSlideIndex: PropTypes.func.isRequired,
-};
+// useSlideParameters.propTypes = {
+//   allSlides: PropTypes.array,
+//   slideIndex: PropTypes.number.isRequired,
+//   setSlideIndex: PropTypes.func.isRequired,
+// };
