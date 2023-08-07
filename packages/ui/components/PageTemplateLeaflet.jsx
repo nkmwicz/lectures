@@ -28,31 +28,6 @@ export function PageTemplateLeaflet({ url, mapCenter }) {
       setSlides(data.slides);
       await cacheImages(data.images);
       setIsLoading(false);
-      if (param === null || param === undefined) {
-        setSlideIndex(0);
-        setSearchParams({ slide: slideIndex });
-        return;
-      }
-      if (param > data.slides.length - 1) {
-        setSlideIndex(data.slides.length - 1);
-        setSearchParams({ slide: data.slides.length - 1 });
-        return;
-      }
-      if (param < 0) {
-        setSlideIndex(0);
-        setSearchParams({ slideIndex: 0 });
-        return;
-      }
-      if (!isNumber(param)) {
-        setSlideIndex(parseInt(0));
-        setSearchParams({ slide: 0 });
-        return;
-      }
-      if (param !== null || param !== undefined) {
-        setSlideIndex(parseInt(param));
-        setSearchParams({ slide: param });
-        return;
-      }
     }
     fetchSlides();
   }, []);
