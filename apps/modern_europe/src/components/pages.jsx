@@ -36,8 +36,8 @@ export const Pages = [
     path: "/discussion2",
   },
   {
-    title: "Sci. Rev.",
-    path: "/scirev",
+    title: "Absolutism",
+    path: "/absolutism",
   },
   {
     title: "Colonialism",

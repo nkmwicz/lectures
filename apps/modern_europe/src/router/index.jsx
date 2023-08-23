@@ -8,7 +8,6 @@ import { Discuss1 } from "../pages/Discuss1";
 import { Ref } from "../pages/Ref";
 import { RelWar } from "../pages/RelWar";
 import { Discuss2 } from "../pages/Discuss2";
-import { SciRev } from "../pages/SciRev";
 import { Colonial } from "../pages/Colonial";
 import { Discuss3 } from "../pages/Discuss3";
 import { Slave } from "../pages/Slave";
@@ -40,6 +39,7 @@ import { ColdWar1 } from "../pages/ColdWar1";
 import { ColdWar2 } from "../pages/ColdWar2";
 import { Decolonize1 } from "../pages/Decolonize1";
 import { Decolonize2 } from "../pages/Decolonize2";
+import { Absolutism } from "../pages/Absolutism";
 
 export function Router() {
   return (
@@ -53,7 +53,7 @@ export function Router() {
       <Route path="/reformation" element={<Ref />} />
       <Route path="/relwars" element={<RelWar />} />
       <Route path="/discussion2" element={<Discuss2 />} />
-      <Route path="/scirev" element={<SciRev />} />
+      <Route path="/Absolutism" element={<Absolutism />} />
       <Route path="/colonialism" element={<Colonial />} />
       <Route path="/discussion3" element={<Discuss3 />} />
       <Route path="/slavetrade" element={<Slave />} />
