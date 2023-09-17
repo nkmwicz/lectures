@@ -53,7 +53,7 @@ export function Router() {
       <Route path="/reformation" element={<Ref />} />
       <Route path="/relwars" element={<RelWar />} />
       <Route path="/discussion2" element={<Discuss2 />} />
-      <Route path="/Absolutism" element={<Absolutism />} />
+      <Route path="/absolutism" element={<Absolutism />} />
       <Route path="/colonialism" element={<Colonial />} />
       <Route path="/discussion3" element={<Discuss3 />} />
       <Route path="/slavetrade" element={<Slave />} />
