@@ -10,8 +10,34 @@
     {
       "number": 2.0,
       "slide": true,
-      "centered": true,
-      "title": "Migration Theory & History"
+      "split": true,
+      "title": "Migration Theory & History",
+      "text": [
+        {
+          "text": "Something",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "split": true,
+      "title": "What was the Renaissance?",
+      "text": [
+        {
+          "text": "What do you think the Renaissance was?",
+          "color": "lightgray"
+        },
+        {
+          "text": "Humanism and The Old Definition",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://clipart-library.com/images/yTkrBoz7c.jpg",
+        "alt": "Image of figure leaning against question mark."
+      }
     }
   ]
 }
