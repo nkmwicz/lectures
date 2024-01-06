@@ -1,0 +1,17 @@
+{
+  "images": [],
+  "slides": [
+    {
+      "number": 1.0,
+      "slide": true,
+      "intro": true,
+      "title": "Ireland, the 19th Century, & Liberalism"
+    },
+    {
+      "number": 2.0,
+      "slide": true,
+      "centered": true,
+      "title": "The English Conquest of Ireland"
+    }
+  ]
+}

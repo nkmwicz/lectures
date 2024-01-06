@@ -1,0 +1,17 @@
+{
+  "images": [],
+  "slides": [
+    {
+      "number": 1.0,
+      "slide": true,
+      "intro": true,
+      "title": "Medieval Iberia, the Reconquista, and the Moriscos"
+    },
+    {
+      "number": 2.0,
+      "slide": true,
+      "centered": true,
+      "title": "1492"
+    }
+  ]
+}

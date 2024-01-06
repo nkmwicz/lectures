@@ -1,0 +1,17 @@
+{
+  "images": [],
+  "slides": [
+    {
+      "number": 1.0,
+      "slide": true,
+      "intro": true,
+      "title": "A Brief History of Iberia"
+    },
+    {
+      "number": 2.0,
+      "slide": true,
+      "centered": true,
+      "title": "Iberia After Rome"
+    }
+  ]
+}
