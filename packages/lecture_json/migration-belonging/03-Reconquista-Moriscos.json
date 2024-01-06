@@ -10,7 +10,7 @@
     {
       "number": 2.0,
       "slide": true,
-      "centered": true,
+      "intro": true,
       "title": "1492"
     }
   ]
