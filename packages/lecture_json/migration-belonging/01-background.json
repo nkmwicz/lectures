@@ -38,6 +38,31 @@
         "image": "https://clipart-library.com/images/yTkrBoz7c.jpg",
         "alt": "Image of figure leaning against question mark."
       }
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "centered": true,
+      "title": "What was the Renaissance?",
+      "subTitle": "More than Humanism: A New Definition?",
+      "text": [
+        {
+          "text": "Large states with growing bureaucracies",
+          "color": "lightgray"
+        },
+        {
+          "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Dramatic cross-cultural interactions around the globe.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "All driven by either humanism itself or inspired by the humanist movement.",
+          "color": "darkslategray"
+        }
+      ]
     }
   ]
 }
