@@ -10,8 +10,14 @@
     {
       "number": 2.0,
       "slide": true,
-      "intro": true,
-      "title": "1492"
+      "centered": true,
+      "title": "1492",
+      "text": [
+        {
+          "text": "Not just the Year of Columbus's Voyage",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }
