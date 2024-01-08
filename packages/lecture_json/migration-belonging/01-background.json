@@ -8,18 +8,6 @@
       "title": "Migration Theory & History"
     },
     {
-      "number": 2.0,
-      "slide": true,
-      "split": true,
-      "title": "Migration Theory & History",
-      "text": [
-        {
-          "text": "Something",
-          "color": "lightgrey"
-        }
-      ]
-    },
-    {
       "number": 2.1,
       "slide": true,
       "centered": true,
@@ -36,6 +24,46 @@
         {
           "text": "What is Nationalism?",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "What will we discuss Today?",
+      "text": [
+        {
+          "text": "Causes of Migration: Push and Pull Factors",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A bit on the history of migration",
+          "color": "lightgray"
+        },
+        {
+          "text": "What is Nationalism?",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "What will we discuss Today?",
+      "text": [
+        {
+          "text": "Causes of Migration: Push and Pull Factors",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A bit on the history of migration",
+          "color": "darkslategray"
+        },
+        {
+          "text": "What is Nationalism?",
+          "color": "lightgray"
         }
       ]
     }
