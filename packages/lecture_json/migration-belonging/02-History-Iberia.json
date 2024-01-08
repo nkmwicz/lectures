@@ -11,7 +11,13 @@
       "number": 2.0,
       "slide": true,
       "centered": true,
-      "title": "Iberia After Rome"
+      "title": "Iberia After Rome",
+      "text": [
+        {
+          "text": "Things",
+          "color": "lightgrey"
+        }
+      ]
     }
   ]
 }

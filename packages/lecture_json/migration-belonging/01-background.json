@@ -22,44 +22,19 @@
     {
       "number": 2.1,
       "slide": true,
-      "split": true,
-      "title": "What was the Renaissance?",
-      "text": [
-        {
-          "text": "What do you think the Renaissance was?",
-          "color": "lightgray"
-        },
-        {
-          "text": "Humanism and The Old Definition",
-          "color": "darkslategray"
-        }
-      ],
-      "image": {
-        "image": "https://clipart-library.com/images/yTkrBoz7c.jpg",
-        "alt": "Image of figure leaning against question mark."
-      }
-    },
-    {
-      "number": 3.1,
-      "slide": true,
       "centered": true,
-      "title": "What was the Renaissance?",
-      "subTitle": "More than Humanism: A New Definition?",
+      "title": "What will we discuss Today?",
       "text": [
         {
-          "text": "Large states with growing bureaucracies",
+          "text": "Causes of Migration: Push and Pull Factors",
           "color": "lightgray"
         },
         {
-          "text": "Intense state competition driving intellectual, architectural, and artistic innovation",
+          "text": "A bit on the history of migration",
           "color": "darkslategray"
         },
         {
-          "text": "Dramatic cross-cultural interactions around the globe.",
-          "color": "darkslategray"
-        },
-        {
-          "text": "All driven by either humanism itself or inspired by the humanist movement.",
+          "text": "What is Nationalism?",
           "color": "darkslategray"
         }
       ]
