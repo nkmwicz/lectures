@@ -70,6 +70,230 @@
     {
       "number": 3.1,
       "slide": true,
+      "intro": true,
+      "title": "Understanding Push & Pull"
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "centered": true,
+      "title": "Push Factors",
+      "text": [
+        {
+          "text": "Push Factors are reasons driving people from a place",
+          "color": "lightgray"
+        },
+        {
+          "text": "Examples:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Economic",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Political",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Environmental",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "Push Factors",
+      "text": [
+        {
+          "text": "Push Factors are reasons driving people from a place",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Examples:",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Poverty or lack of opportunity",
+              "color": "lightgray"
+            },
+            {
+              "text": "Forced Expulsion",
+              "color": "lightgray"
+            },
+            {
+              "text": "Environmental Disaster",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Pull Factors",
+      "text": [
+        {
+          "text": "Pull Factors are reasons drawing people to a place",
+          "color": "lightgray"
+        },
+        {
+          "text": "Examples:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "Gold Rush",
+              "color": "darkslategray"
+            },
+            {
+              "text": "A land of Religious Freedom",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Nice Weather",
+              "color": "darkslategray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Pull Factors",
+      "text": [
+        {
+          "text": "Pull Factors are reasons drawing people to a place",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Examples:",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "Gold Rush",
+              "color": "lightgray"
+            },
+            {
+              "text": "A land of Religious Freedom",
+              "color": "lightgray"
+            },
+            {
+              "text": "Nice Weather",
+              "color": "lightgray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "centered": true,
+      "title": "Generalizations",
+      "text": [
+        {
+          "text": "Pulled toward opportunity and forced migration reinforce inequalities",
+          "color": "lightgray"
+        },
+        {
+          "text": "Human Mobility is the rule not the exception his history",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The transition from empires to nation-states led to new idea of confining migrants to where they supposedly 'belong'",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "centered": true,
+      "title": "Generalizations",
+      "text": [
+        {
+          "text": "Pulled toward opportunity and forced migration reinforce inequalities",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Human Mobility is the rule not the exception his history",
+          "color": "lightgray"
+        },
+        {
+          "text": "The transition from empires to nation-states led to new idea of confining migrants to where they supposedly 'belong'",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "centered": true,
+      "title": "Generalizations",
+      "text": [
+        {
+          "text": "Pulled toward opportunity and forced migration reinforce inequalities",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Human Mobility is the rule not the exception his history",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The transition from empires to nation-states led to new idea of confining migrants to where they supposedly 'belong'",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "intro": true,
+      "title": "History of Migration"
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "centered": true,
+      "title": "History of Migration",
+      "text": [
+        {
+          "text": "Migration is a constant in human history",
+          "color": "lightgray"
+        },
+        {
+          "text": "The first humans migrated out of Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The first humans to reach the Americas migrated from Asia",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "centered": true,
+      "title": "History of Migration",
+      "text": [
+        {
+          "text": "Migration is a constant in human history",
+          "color": "darkslate"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
       "centered": true,
       "title": "Creating a Nation",
       "text": [
