@@ -28,7 +28,7 @@
       ]
     },
     {
-      "number": 2.1,
+      "number": 2.2,
       "slide": true,
       "centered": true,
       "title": "What will we discuss Today?",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "number": 2.1,
+      "number": 2.3,
       "slide": true,
       "centered": true,
       "title": "What will we discuss Today?",
@@ -63,6 +63,142 @@
         },
         {
           "text": "What is Nationalism?",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Beginning with the French Revolution",
+          "color": "lightgray"
+        },
+        {
+          "text": "Common history, culture, language",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Inventing Traditions:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "the Scottish Kilt",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Folk Tales & Grimm's Fairy Tales",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Beginning with the French Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Common history, culture, language",
+          "color": "lightgray"
+        },
+        {
+          "text": "Inventing Traditions:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "the Scottish Kilt",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Folk Tales & Grimm's Fairy Tales",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Beginning with the French Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Common history, culture, language",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Inventing Traditions:",
+          "color": "lightgray",
+          "children": [
+            {
+              "text": "the Scottish Kilt",
+              "color": "lightgray"
+            },
+            {
+              "text": "Folk Tales & Grimm's Fairy Tales",
+              "color": "lightgray"
+            }
+          ]
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Beginning with the French Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Common history, culture, language",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Inventing Traditions:",
+          "color": "darkslategray",
+          "children": [
+            {
+              "text": "the Scottish Kilt",
+              "color": "darkslategray"
+            },
+            {
+              "text": "Folk Tales & Grimm's Fairy Tales",
+              "color": "darkslategray"
+            }
+          ]
+        },
+        {
+          "text": "Trains, Army, Education",
           "color": "lightgray"
         }
       ]
