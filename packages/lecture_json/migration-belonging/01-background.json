@@ -478,7 +478,7 @@
     {
       "number": 10.1,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "Creating a Nation",
       "subTitle": "Inventing Traditions",
       "text": [
@@ -500,7 +500,7 @@
     {
       "number": 10.2,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "Creating a Nation",
       "subTitle": "Inventing Traditions",
       "text": [
