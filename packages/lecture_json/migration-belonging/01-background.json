@@ -1,5 +1,10 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/73/Putative_migration_waves_out_of_Africa.png",
+    "https://upload.wikimedia.org/wikipedia/commons/6/67/Map_of_gene_flow_in_and_out_of_Beringia.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2b/Greek_Colonization_Archaic_Period.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f3/Genghis_Khan_empire-en.svg"
+  ],
   "slides": [
     {
       "number": 1.0,
@@ -262,7 +267,7 @@
     {
       "number": 8.1,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "History of Migration",
       "text": [
         {
@@ -277,7 +282,178 @@
           "text": "The first humans to reach the Americas migrated from Asia",
           "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Putative_migration_waves_out_of_Africa.png",
+        "description": "Migration out of Africa",
+        "alt": "Early Human Migration out of Africa."
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "History of Migration",
+      "text": [
+        {
+          "text": "Migration is a constant in human history",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The first humans migrated out of Africa",
+          "color": "lightgray"
+        },
+        {
+          "text": "The first humans to reach the Americas migrated from Asia",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Putative_migration_waves_out_of_Africa.png",
+        "description": "Migration out of Africa",
+        "alt": "Early Human Migration out of Africa."
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "split": true,
+      "title": "History of Migration",
+      "text": [
+        {
+          "text": "Migration is a constant in human history",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The first humans migrated out of Africa",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The first humans to reach the Americas migrated from Asia",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Map_of_gene_flow_in_and_out_of_Beringia.jpg",
+        "description": "Migration out of Africa",
+        "alt": "Early Peopling of the Americas."
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "split": true,
+      "title": "More Migration Events",
+      "text": [
+        {
+          "text": "Greek Colonization (750-550 BCE)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Germanic Migrations (100 - 500 CE)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Mongol Empire (13th century)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Islamic Expansion",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Greek_Colonization_Archaic_Period.svg",
+        "description": "Greek Colonization around the Mediterranean and Black Seas",
+        "alt": "Greek Colonization around the Mediterranean and Black Seas"
+      }
+    },
+    {
+      "number": 8.5,
+      "slide": true,
+      "split": true,
+      "title": "More Migration Events",
+      "text": [
+        {
+          "text": "Greek Colonization (750-550 BCE)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Germanic Migrations (100 - 500 CE)",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Mongol Empire (13th century)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Islamic Expansion",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Invasions_of_the_Roman_Empire_1.png",
+        "description": "Greek Colonization around the Mediterranean and Black Seas",
+        "alt": "Greek Colonization around the Mediterranean and Black Seas"
+      }
+    },
+    {
+      "number": 8.6,
+      "slide": true,
+      "split": true,
+      "title": "More Migration Events",
+      "text": [
+        {
+          "text": "Greek Colonization (750-550 BCE)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Germanic Migrations (100 - 500 CE)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Mongol Empire (13th century)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Islamic Expansion",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Genghis_Khan_empire-en.svg",
+        "description": "Expansion of the Mongol Empire in the 13th century",
+        "alt": "Expansion of the Mongol Empire in the 13th century"
+      }
+    },
+    {
+      "number": 8.7,
+      "slide": true,
+      "split": true,
+      "title": "More Migration Events",
+      "text": [
+        {
+          "text": "Greek Colonization (750-550 BCE)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Germanic Migrations (100 - 500 CE)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Mongol Empire (13th century)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Islamic Expansion",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Genghis_Khan_empire-en.svg",
+        "description": "Expansion of the Mongol Empire in the 13th century",
+        "alt": "Expansion of the Mongol Empire in the 13th century"
+      }
     },
     {
       "number": 9.1,
@@ -294,24 +470,54 @@
           "color": "darkslategray"
         },
         {
-          "text": "Inventing Traditions:",
-          "color": "darkslategray",
-          "children": [
-            {
-              "text": "the Scottish Kilt",
-              "color": "darkslategray"
-            },
-            {
-              "text": "Folk Tales & Grimm's Fairy Tales",
-              "color": "darkslategray"
-            }
-          ]
-        },
-        {
           "text": "Trains, Army, Education",
           "color": "darkslategray"
         }
       ]
+    },
+    {
+      "number": 10.1,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "subTitle": "Inventing Traditions",
+      "text": [
+        {
+          "text": "the Scottish Kilt",
+          "color": "lightgray"
+        },
+        {
+          "text": "Folk Tales & Grimm's Fairy Tales",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.kilts.com/wp-content/uploads/2016/10/kilts-plaids-large.jpg",
+        "description": "Modern Scottish Kilt",
+        "alt": "Modern Scottish Kilt"
+      }
+    },
+    {
+      "number": 10.2,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "subTitle": "Inventing Traditions",
+      "text": [
+        {
+          "text": "the Scottish Kilt",
+          "color": "lightgray"
+        },
+        {
+          "text": "Folk Tales & Grimm's Fairy Tales",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/originals/5c/e3/ea/5ce3ea1f63104c1389ca1e5b6e12a03e.jpg",
+        "description": "traditionalish Scottish dress",
+        "alt": "traditionalish Scottish dress"
+      }
     },
     {
       "number": 9.2,
