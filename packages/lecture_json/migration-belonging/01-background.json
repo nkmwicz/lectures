@@ -93,16 +93,16 @@
           "color": "darkslategray",
           "children": [
             {
-              "text": "Economic",
-              "color": "darkslategray"
+              "text": "Poverty or lack of opportunity",
+              "color": "lightgray"
             },
             {
-              "text": "Political",
-              "color": "darkslategray"
+              "text": "Forced Expulsion",
+              "color": "lightgray"
             },
             {
-              "text": "Environmental",
-              "color": "darkslategray"
+              "text": "Environmental Disaster",
+              "color": "lightgray"
             }
           ]
         }
@@ -450,9 +450,9 @@
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Genghis_Khan_empire-en.svg",
-        "description": "Expansion of the Mongol Empire in the 13th century",
-        "alt": "Expansion of the Mongol Empire in the 13th century"
+        "image": "https://cdn.britannica.com/61/93261-050-002BA2B3/Abbasid-Caliphate.jpg",
+        "description": "Expansion of Islam 7th-9th centuries",
+        "alt": "Expansion of Islam 7th-9th centuries"
       }
     },
     {
@@ -472,6 +472,46 @@
         {
           "text": "Trains, Army, Education",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Beginning with the French Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Common history, culture, language",
+          "color": "lightgray"
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "centered": true,
+      "title": "Creating a Nation",
+      "text": [
+        {
+          "text": "Beginning with the French Revolution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Common history, culture, language",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Trains, Army, Education",
+          "color": "lightgray"
         }
       ]
     },
@@ -520,106 +560,26 @@
       }
     },
     {
-      "number": 9.2,
+      "number": 10.3,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "Creating a Nation",
+      "subTitle": "Inventing Traditions",
       "text": [
         {
-          "text": "Beginning with the French Revolution",
+          "text": "the Scottish Kilt",
           "color": "darkslategray"
         },
         {
-          "text": "Common history, culture, language",
-          "color": "lightgray"
-        },
-        {
-          "text": "Inventing Traditions:",
-          "color": "darkslategray",
-          "children": [
-            {
-              "text": "the Scottish Kilt",
-              "color": "darkslategray"
-            },
-            {
-              "text": "Folk Tales & Grimm's Fairy Tales",
-              "color": "darkslategray"
-            }
-          ]
-        },
-        {
-          "text": "Trains, Army, Education",
-          "color": "darkslategray"
-        }
-      ]
-    },
-    {
-      "number": 9.3,
-      "slide": true,
-      "centered": true,
-      "title": "Creating a Nation",
-      "text": [
-        {
-          "text": "Beginning with the French Revolution",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Common history, culture, language",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Inventing Traditions:",
-          "color": "lightgray",
-          "children": [
-            {
-              "text": "the Scottish Kilt",
-              "color": "lightgray"
-            },
-            {
-              "text": "Folk Tales & Grimm's Fairy Tales",
-              "color": "lightgray"
-            }
-          ]
-        },
-        {
-          "text": "Trains, Army, Education",
-          "color": "darkslategray"
-        }
-      ]
-    },
-    {
-      "number": 9.4,
-      "slide": true,
-      "centered": true,
-      "title": "Creating a Nation",
-      "text": [
-        {
-          "text": "Beginning with the French Revolution",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Common history, culture, language",
-          "color": "darkslategray"
-        },
-        {
-          "text": "Inventing Traditions:",
-          "color": "darkslategray",
-          "children": [
-            {
-              "text": "the Scottish Kilt",
-              "color": "darkslategray"
-            },
-            {
-              "text": "Folk Tales & Grimm's Fairy Tales",
-              "color": "darkslategray"
-            }
-          ]
-        },
-        {
-          "text": "Trains, Army, Education",
+          "text": "Folk Tales & Grimm's Fairy Tales",
           "color": "lightgray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Grimm%27s_Kinder-_und_Hausm%C3%A4rchen%2C_Erster_Theil_%281812%29.cover.jpg",
+        "description": "Title page of first volume of Grimms' Kinder- und Hausmärchen (1819) 2nd ed.",
+        "alt": "Title page of first volume of Grimms' Kinder- und Hausmärchen (1819) 2nd ed."
+      }
     }
   ]
 }
