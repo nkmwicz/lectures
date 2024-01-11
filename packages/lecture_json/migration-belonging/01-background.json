@@ -94,15 +94,15 @@
           "children": [
             {
               "text": "Poverty or lack of opportunity",
-              "color": "lightgray"
+              "color": "darkslategray"
             },
             {
               "text": "Forced Expulsion",
-              "color": "lightgray"
+              "color": "darkslategray"
             },
             {
               "text": "Environmental Disaster",
-              "color": "lightgray"
+              "color": "darkslategray"
             }
           ]
         }
