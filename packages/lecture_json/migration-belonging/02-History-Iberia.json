@@ -139,7 +139,7 @@
           "color": "darkslategrey"
         },
         {
-          "text": "Romanization",
+          "text": "Romanization by end of 460 CE",
           "color": "darkslategrey"
         }
       ],
@@ -164,7 +164,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Romanization",
+          "text": "Romanization by end of 460 CE",
           "color": "darkslategrey"
         }
       ],
@@ -203,7 +203,8 @@
       "number": 3.0,
       "slide": true,
       "split": true,
-      "title": "Fall of the Western Roman Empire",
+      "title": "Christianizing Rome",
+      "subTitle": "Nicene (orthodox) vs Arian Christiansity",
       "text": [
         {
           "text": "Things",
