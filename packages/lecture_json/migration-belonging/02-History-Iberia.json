@@ -201,7 +201,7 @@
       }
     },
     {
-      "number": 4.0,
+      "number": 4.1,
       "slide": true,
       "centered": true,
       "title": "Christianizing Rome",
@@ -218,6 +218,48 @@
         {
           "text": "By 400s, Rome = Nicene, German tribes = Arian",
           "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "centered": true,
+      "title": "Christianizing Rome",
+      "subTitle": "Nicene (orthodox) vs Arian Christiansity",
+      "text": [
+        {
+          "text": "Christian Heterodoxy until Nicene Council (325 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Divinity of Christ? Nicene vs Arian",
+          "color": "lightgrey"
+        },
+        {
+          "text": "By 400s, Rome = Nicene, German tribes = Arian",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "centered": true,
+      "title": "Christianizing Rome",
+      "subTitle": "Nicene (orthodox) vs Arian Christiansity",
+      "text": [
+        {
+          "text": "Christian Heterodoxy until Nicene Council (325 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Divinity of Christ? Nicene vs Arian",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "By 400s, Rome = Nicene, German tribes = Arian",
+          "color": "lightgrey"
         }
       ]
     },
