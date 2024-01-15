@@ -1,5 +1,8 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/62/Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War_Modified.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/46/Iberian_Peninsula_in_125-en.svg"
+  ],
   "slides": [
     {
       "number": 1.0,
@@ -11,13 +14,207 @@
       "number": 2.0,
       "slide": true,
       "centered": true,
-      "title": "Iberia After Rome",
+      "title": "Iberia",
+      "subTitle": "A History of Migrations and Religious Change",
+      "text": [
+        {
+          "text": "Migrations",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Roman",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Germanic",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Arab",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Religious Change",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Roman Polytheism",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Nicene Christianity",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Arian Christianity",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Catholicism",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Islam",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Catholicism",
+              "color": "darkslategrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "centered": true,
+      "title": "Iberia",
+      "subTitle": "A History of Migrations and Religious Change",
+      "text": [
+        {
+          "text": "Migrations",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Roman",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Germanic",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Arab",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Religious Change",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Roman Polytheism",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Nicene Christianity",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Arian Christianity",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Catholicism",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Islam",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Catholicism",
+              "color": "lightgrey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Roman Iberia",
+      "text": [
+        {
+          "text": "Roman Conquest began during Punic Wars (246 - 146 BC)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Full Conquest by 19 BC",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Romanization",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War_Modified.svg",
+        "description": "Rome and Carthage during Puic Wars (264-146 BC)",
+        "alt": "Rome and Carthage during Puic Wars (264-146 BC)"
+      }
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Roman Iberia",
+      "text": [
+        {
+          "text": "Roman Conquest began during Punic Wars (246 - 146 BC)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Full Conquest by 19 BC",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Romanization",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Iberian_Peninsula_in_125-en.svg",
+        "description": "Roman Hispania (19 BCE - 409 CE)",
+        "alt": "Roman Hispania (19 BCE - 409 CE)"
+      }
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Roman Iberia",
+      "text": [
+        {
+          "text": "Roman Conquest began during Punic Wars (246 - 146 BC)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Full Conquest by 19 BC",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Romanization by end of 460 CE",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ethnographic_Iberia_200_BCE.PNG",
+        "description": "Linguistic Variation of Iberia in 200 BCE",
+        "alt": "Map of Linguistic Variation of Iberia in 200 BCE"
+      }
+    },
+    {
+      "number": 3.0,
+      "slide": true,
+      "split": true,
+      "title": "Fall of the Western Roman Empire",
       "text": [
         {
           "text": "Things",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/476_AD_Europe.png/800px-476_AD_Europe.png",
+        "description": "The Western Roman Empire in 476 AD",
+        "alt": "The Western Roman Empire in 476 AD"
+      }
     }
   ]
 }
