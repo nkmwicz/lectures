@@ -150,18 +150,18 @@
       }
     },
     {
-      "number": 3.1,
+      "number": 3.2,
       "slide": true,
       "split": true,
       "title": "Roman Iberia",
       "text": [
         {
           "text": "Roman Conquest began during Punic Wars (246 - 146 BC)",
-          "color": "lightgrey"
+          "color": "darkslategrey"
         },
         {
           "text": "Full Conquest by 19 BC",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         },
         {
           "text": "Romanization",
@@ -175,14 +175,14 @@
       }
     },
     {
-      "number": 3.1,
+      "number": 3.3,
       "slide": true,
       "split": true,
       "title": "Roman Iberia",
       "text": [
         {
           "text": "Roman Conquest began during Punic Wars (246 - 146 BC)",
-          "color": "lightgrey"
+          "color": "darkslategrey"
         },
         {
           "text": "Full Conquest by 19 BC",
@@ -190,7 +190,7 @@
         },
         {
           "text": "Romanization by end of 460 CE",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         }
       ],
       "image": {
