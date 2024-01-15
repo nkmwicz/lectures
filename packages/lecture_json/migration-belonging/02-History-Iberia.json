@@ -593,7 +593,7 @@
       ]
     },
     {
-      "number": 8.0,
+      "number": 8.1,
       "slide": true,
       "split": true,
       "title": "Rise of Islam",
@@ -603,7 +603,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Initial Expansion (622 - 632 CE)",
+          "text": "Initial Expansion (622 - 661 CE)",
           "color": "darkslategrey"
         },
         {
@@ -619,6 +619,349 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Map_of_expansion_of_Caliphate.svg",
         "description": "Expansion of the Caliphate, 622-750 CE",
         "alt": "Map of the Expansion of the Caliphate, 622-750 CE"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "Rise of Islam",
+      "text": [
+        {
+          "text": "Muhammad, Gabriel, and the Quran (610 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Initial Expansion (622 - 661 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Umayyad Caliphate (661 - 750 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim expanison into Iberia (711 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Map_of_expansion_of_Caliphate.svg",
+        "description": "Expansion of the Caliphate, 622-750 CE",
+        "alt": "Map of the Expansion of the Caliphate, 622-750 CE"
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "split": true,
+      "title": "Rise of Islam",
+      "text": [
+        {
+          "text": "Muhammad, Gabriel, and the Quran (610 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Initial Expansion (622 - 661 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Umayyad Caliphate (661 - 750 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Muslim expanison into Iberia (711 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Map_of_expansion_of_Caliphate.svg",
+        "description": "Expansion of the Caliphate, 622-750 CE",
+        "alt": "Map of the Expansion of the Caliphate, 622-750 CE"
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "split": true,
+      "title": "Rise of Islam",
+      "text": [
+        {
+          "text": "Muhammad, Gabriel, and the Quran (610 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Initial Expansion (622 - 661 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Umayyad Caliphate (661 - 750 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim expanison into Iberia (711 CE)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Map_of_expansion_of_Caliphate.svg",
+        "description": "Expansion of the Caliphate, 622-750 CE",
+        "alt": "Map of the Expansion of the Caliphate, 622-750 CE"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "centered": true,
+      "title": "Muslim Iberia",
+      "text": [
+        {
+          "text": "Muslims Conquered all Iberia by 718 CE",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Options: convert, accept dhimmi status, or fight back and lose lands",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Converts: Musalim",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Dhimmi: Mozarabs",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ruling Classes: Mainly Berbers in North, and Arabs in South",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "centered": true,
+      "title": "Muslim Iberia",
+      "text": [
+        {
+          "text": "Muslims Conquered all Iberia by 718 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Options: convert, accept dhimmi status, or fight back and lose lands",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Converts: Musalim",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Dhimmi: Mozarabs",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ruling Classes: Mainly Berbers in North, and Arabs in South",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "centered": true,
+      "title": "Muslim Iberia",
+      "text": [
+        {
+          "text": "Muslims Conquered all Iberia by 718 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Options: convert, accept dhimmi status, or fight back and lose lands",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Converts: Musalim",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Dhimmi: Mozarabs",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ruling Classes: Mainly Berbers in North, and Arabs in South",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 9.4,
+      "slide": true,
+      "centered": true,
+      "title": "Muslim Iberia",
+      "text": [
+        {
+          "text": "Muslims Conquered all Iberia by 718 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Options: convert, accept dhimmi status, or fight back and lose lands",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Converts: Musalim",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Dhimmi: Mozarabs",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ruling Classes: Mainly Berbers in North, and Arabs in South",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 9.5,
+      "slide": true,
+      "centered": true,
+      "title": "Muslim Iberia",
+      "text": [
+        {
+          "text": "Muslims Conquered all Iberia by 718 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Options: convert, accept dhimmi status, or fight back and lose lands",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Converts: Musalim",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Dhimmi: Mozarabs",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ruling Classes: Mainly Berbers in North, and Arabs in South",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 10.1,
+      "slide": true,
+      "split": true,
+      "title": "Changes to Dynasties",
+      "text": [
+        {
+          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "",
+        "description": "",
+        "alt": ""
+      }
+    },
+    {
+      "number": 10.2,
+      "slide": true,
+      "split": true,
+      "title": "Changes to Dynasties",
+      "text": [
+        {
+          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "",
+        "description": "",
+        "alt": ""
+      }
+    },
+    {
+      "number": 10.3,
+      "slide": true,
+      "split": true,
+      "title": "Changes to Dynasties",
+      "text": [
+        {
+          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Map_Iberian_Peninsula_910-es.svg",
+        "description": "Kingdom of Asturias, 910 CE",
+        "alt": "Map of Kingdom of Asturas, 910 CE"
+      }
+    },
+    {
+      "number": 10.4,
+      "slide": true,
+      "split": true,
+      "title": "Changes to Dynasties",
+      "text": [
+        {
+          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Taifas2.gif",
+        "description": "Iberia in 1031",
+        "alt": "Map of Iberia in 1031"
       }
     }
   ]
