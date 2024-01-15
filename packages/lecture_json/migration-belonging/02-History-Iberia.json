@@ -855,19 +855,11 @@
       "title": "Changes to Dynasties",
       "text": [
         {
-          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
+          "text": "Umayyad Caliphate in Spain (750 CE)",
           "color": "lightgrey"
         },
         {
           "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
           "color": "darkslategrey"
         }
       ],
@@ -884,48 +876,11 @@
       "title": "Changes to Dynasties",
       "text": [
         {
-          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
+          "text": "Umayyad Caliphate in Spain (750 CE)",
           "color": "lightgrey"
         },
         {
           "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
-          "color": "darkslategrey"
-        }
-      ],
-      "image": {
-        "image": "",
-        "description": "",
-        "alt": ""
-      }
-    },
-    {
-      "number": 10.3,
-      "slide": true,
-      "split": true,
-      "title": "Changes to Dynasties",
-      "text": [
-        {
-          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
           "color": "darkslategrey"
         }
       ],
@@ -936,26 +891,39 @@
       }
     },
     {
+      "number": 10.3,
+      "slide": true,
+      "split": true,
+      "title": "Changes to Dynasties",
+      "text": [
+        {
+          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Califato_de_C%C3%B3rdoba_-_1000-en.svg",
+        "description": "Iberia in 1000",
+        "alt": "Map of Iberia in 1000"
+      }
+    },
+    {
       "number": 10.4,
       "slide": true,
       "split": true,
       "title": "Changes to Dynasties",
       "text": [
         {
-          "text": "Umayyad Caliphate in Spain (750 - 750 CE)",
-          "color": "lightgrey"
-        },
-        {
-          "text": "Kingdom of Asturias (718 - 924 CE): Christian Stronghold",
-          "color": "darkslategrey"
-        },
-        {
           "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
           "color": "darkslategrey"
         },
         {
           "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         }
       ],
       "image": {
