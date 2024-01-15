@@ -1,7 +1,8 @@
 {
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/6/62/Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War_Modified.svg",
-    "https://upload.wikimedia.org/wikipedia/commons/4/46/Iberian_Peninsula_in_125-en.svg"
+    "https://upload.wikimedia.org/wikipedia/commons/4/46/Iberian_Peninsula_in_125-en.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/72/Map_of_expansion_of_Caliphate.svg"
   ],
   "slides": [
     {
@@ -200,21 +201,395 @@
       }
     },
     {
-      "number": 3.0,
+      "number": 4.0,
       "slide": true,
       "split": true,
       "title": "Christianizing Rome",
       "subTitle": "Nicene (orthodox) vs Arian Christiansity",
       "text": [
         {
-          "text": "Things",
+          "text": "Christian Heterodoxy until Nicene Council (325 CE)",
           "color": "lightgrey"
+        },
+        {
+          "text": "Divinity of Christ? Nicene vs Arian",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "By 400s, Rome = Nicene, German tribes = Arian",
+          "color": "darkslategrey"
         }
       ],
       "image": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/476_AD_Europe.png/800px-476_AD_Europe.png",
         "description": "The Western Roman Empire in 476 AD",
         "alt": "The Western Roman Empire in 476 AD"
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split": true,
+      "title": "Germanic Invasions",
+      "subTitle": "The Visigots",
+      "text": [
+        {
+          "text": "Germanic Invasions of Roman Empire (400s CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Visigoths in Italy: invaders to allies (400-416 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths orderd to Spain (456 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Invasions_of_the_Roman_Empire_1.png",
+        "description": "Germanic Invasions of the Roman Empire (100-500 CE)",
+        "alt": "Germanic Invasions of the Roman Empire (100-500 CE)"
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "split": true,
+      "title": "Germanic Invasions",
+      "subTitle": "The Visigots",
+      "text": [
+        {
+          "text": "Germanic Invasions of Roman Empire (400s CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths in Italy: invaders to allies (400-416 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Visigoths orderd to Spain (456 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Invasions_of_the_Roman_Empire_1.png",
+        "description": "Germanic Invasions of the Roman Empire (100-500 CE)",
+        "alt": "Germanic Invasions of the Roman Empire (100-500 CE)"
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "split": true,
+      "title": "Germanic Invasions",
+      "subTitle": "The Visigots",
+      "text": [
+        {
+          "text": "Germanic Invasions of Roman Empire (400s CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths in Italy: invaders to allies (400-416 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths orderd to Spain (456 CE)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Invasions_of_the_Roman_Empire_1.png",
+        "description": "Germanic Invasions of the Roman Empire (100-500 CE)",
+        "alt": "Germanic Invasions of the Roman Empire (100-500 CE)"
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "Visigothic Iberia",
+      "text": [
+        {
+          "text": "Byzantines invade South Iberia (550 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Converted to Nicean Christianity by 589 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths Conquered all Iberia by 631 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Kingdom of the Visigoths (585 - 711 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Iberia_560.svg",
+        "description": "Visigothic Iberia, ~560 CE",
+        "alt": "Map of Visigothic Iberia, around 560 CE"
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "Visigothic Iberia",
+      "text": [
+        {
+          "text": "Byzantines invade South Iberia (550 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Converted to Nicean Christianity by 589 CE",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Visigoths Conquered all Iberia by 631 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Kingdom of the Visigoths (585 - 711 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Iberia_560.svg",
+        "description": "Visigothic Iberia, ~560 CE",
+        "alt": "Map of Visigothic Iberia, around 560 CE"
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "split": true,
+      "title": "Visigothic Iberia",
+      "text": [
+        {
+          "text": "Byzantines invade South Iberia (550 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Converted to Nicean Christianity by 589 CE",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths Conquered all Iberia by 631 CE",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Iberia_560.svg",
+        "description": "Visigothic Iberia, ~560 CE",
+        "alt": "Map of Visigothic Iberia, around 560 CE"
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Characteristics of Visigothic Iberia",
+      "text": [
+        {
+          "text": "Visigoths a minority of population",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Visigoths adopted Hispano-Roman culture",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Adopted Latin Language",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Used Roman Law",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Close Alignment with Catholic Church",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Used Church for justification of rule",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Ruled through Catholic Councils of Bishops",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Dispite problems, Visigothic Iberia became a golden Age to look back on",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "centered": true,
+      "title": "Characteristics of Visigothic Iberia",
+      "text": [
+        {
+          "text": "Visigoths a minority of population",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths adopted Hispano-Roman culture",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Adopted Latin Language",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Used Roman Law",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Close Alignment with Catholic Church",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Used Church for justification of rule",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Ruled through Catholic Councils of Bishops",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Dispite problems, Visigothic Iberia became a golden Age to look back on",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "centered": true,
+      "title": "Characteristics of Visigothic Iberia",
+      "text": [
+        {
+          "text": "Visigoths a minority of population",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths adopted Hispano-Roman culture",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Adopted Latin Language",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Used Roman Law",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Close Alignment with Catholic Church",
+          "color": "lightgrey",
+          "children": [
+            {
+              "text": "Used Church for justification of rule",
+              "color": "lightgrey"
+            },
+            {
+              "text": "Ruled through Catholic Councils of Bishops",
+              "color": "lightgrey"
+            }
+          ]
+        },
+        {
+          "text": "Dispite problems, Visigothic Iberia became a golden Age to look back on",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "centered": true,
+      "title": "Characteristics of Visigothic Iberia",
+      "text": [
+        {
+          "text": "Visigoths a minority of population",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Visigoths adopted Hispano-Roman culture",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Adopted Latin Language",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Used Roman Law",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Close Alignment with Catholic Church",
+          "color": "darkslategrey",
+          "children": [
+            {
+              "text": "Used Church for justification of rule",
+              "color": "darkslategrey"
+            },
+            {
+              "text": "Ruled through Catholic Councils of Bishops",
+              "color": "darkslategrey"
+            }
+          ]
+        },
+        {
+          "text": "Dispite problems, Visigothic Iberia became a golden Age to look back on",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 8.0,
+      "slide": true,
+      "split": true,
+      "title": "Rise of Islam",
+      "text": [
+        {
+          "text": "Muhammad, Gabried, and the Quran (610 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Initial Expansion (622 - 632 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Umayyad Caliphate (661 - 750 CE)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim expanison into Iberia (711 CE)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Map_of_expansion_of_Caliphate.svg",
+        "description": "Expansion of the Caliphate, 622-750 CE",
+        "alt": "Map of the Expansion of the Caliphate, 622-750 CE"
       }
     }
   ]
