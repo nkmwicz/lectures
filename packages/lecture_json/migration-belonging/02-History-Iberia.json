@@ -358,10 +358,6 @@
         {
           "text": "Visigoths Conquered all Iberia by 631 CE",
           "color": "darkslategrey"
-        },
-        {
-          "text": "Kingdom of the Visigoths (585 - 711 CE)",
-          "color": "darkslategrey"
         }
       ],
       "image": {
@@ -387,10 +383,6 @@
         {
           "text": "Visigoths Conquered all Iberia by 631 CE",
           "color": "darkslategrey"
-        },
-        {
-          "text": "Kingdom of the Visigoths (585 - 711 CE)",
-          "color": "darkslategrey"
         }
       ],
       "image": {
@@ -415,7 +407,7 @@
         },
         {
           "text": "Visigoths Conquered all Iberia by 631 CE",
-          "color": "darkslategrey"
+          "color": "lightgrey"
         }
       ],
       "image": {
