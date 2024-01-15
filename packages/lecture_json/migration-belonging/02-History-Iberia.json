@@ -203,7 +203,7 @@
     {
       "number": 4.0,
       "slide": true,
-      "split": true,
+      "centered": true,
       "title": "Christianizing Rome",
       "subTitle": "Nicene (orthodox) vs Arian Christiansity",
       "text": [
@@ -219,12 +219,7 @@
           "text": "By 400s, Rome = Nicene, German tribes = Arian",
           "color": "darkslategrey"
         }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/476_AD_Europe.png/800px-476_AD_Europe.png",
-        "description": "The Western Roman Empire in 476 AD",
-        "alt": "The Western Roman Empire in 476 AD"
-      }
+      ]
     },
     {
       "number": 5.1,
