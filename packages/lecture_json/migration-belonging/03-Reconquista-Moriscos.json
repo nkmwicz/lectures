@@ -8,16 +8,647 @@
       "title": "Medieval Iberia, the Reconquista, and the Moriscos"
     },
     {
-      "number": 2.0,
+      "number": 1.1,
       "slide": true,
-      "centered": true,
-      "title": "1492",
+      "split": true,
+      "title": "Changes to Dynasties",
       "text": [
         {
-          "text": "Not just the Year of Columbus's Voyage",
+          "text": "Asturias Partitioned: Leon, Castile, Navarre, Aragon (924 - 1035 CE)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Disentigration of Caliphate: succession problems (1000 - 1031 CE)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Taifas2.gif",
+        "description": "Iberia in 1031",
+        "alt": "Map of Iberia in 1031"
+      }
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "split": true,
+      "title": "Changes to the balance",
+      "text": [
+        {
+          "text": "Almoravids",
+          "color": "lightgrey"
+        },
+        {
+          "text": "French Reinforcements",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Portugal (1143)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Significance",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Almoravid_dynasty_of_Morocco-en.svg",
+        "description": "",
+        "alt": "Map of the Almoravid dynasty"
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "split": true,
+      "title": "Changes to the balance",
+      "text": [
+        {
+          "text": "Almoravids",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "French Reinforcements",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Portugal (1143)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Significance",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Almoravid_dynasty_of_Morocco-en.svg",
+        "description": "",
+        "alt": "Map of the Almoravid dynasty"
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "split": true,
+      "title": "Changes to the balance",
+      "text": [
+        {
+          "text": "Almoravids",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "French Reinforcements",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Portugal (1143)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Almohods (1147)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.shadowedrealm.com/lib/images/medieval/maps/map098.jpg",
+        "description": "Map of Iberia, 1150",
+        "alt": "Map of Iberia, 1150"
+      }
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "split": true,
+      "title": "Changes to the balance",
+      "text": [
+        {
+          "text": "Almoravids",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "French Reinforcements",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Portugal (1143)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Significance",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.shadowedrealm.com/lib/images/medieval/maps/map098.jpg",
+        "description": "Map of Iberia, 1150",
+        "alt": "Map of Iberia, 1150"
+      }
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split": true,
+      "title": "Expansion of Castile",
+      "text": [
+        {
+          "text": "Battle of Las Navas (1212)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Significance: No Major Muslim Power",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Castilian Expansion",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim Support",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.shadowedrealm.com/lib/images/medieval/maps/map098.jpg",
+        "description": "Map of Iberia, 1150",
+        "alt": "Map of Iberia, 1150"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split": true,
+      "title": "Expansion of Castile",
+      "text": [
+        {
+          "text": "Battle of Las Navas (1212)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Significance: No Major Muslim Power",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Castilian Expansion",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim Support",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.shadowedrealm.com/lib/images/medieval/maps/map098.jpg",
+        "description": "Map of Iberia, 1150",
+        "alt": "Map of Iberia, 1150"
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "split": true,
+      "title": "Expansion of Castile",
+      "text": [
+        {
+          "text": "Battle of Las Navas (1212)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Significance: No Major Muslim Power",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Castilian Expansion",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Muslim Support",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-dndIkUFqvgA/VH94lNG4r8I/AAAAAAAAAX8/rhXNzrEeE_U/s1600/Mapa-Reconquista-siglo-XIII.jpg",
+        "description": "",
+        "alt": "Map of Castilian expansion"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split": true,
+      "title": "Expansion of Castile",
+      "text": [
+        {
+          "text": "Battle of Las Navas (1212)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Significance: No Major Muslim Power",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Castilian Expansion",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim Support",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-dndIkUFqvgA/VH94lNG4r8I/AAAAAAAAAX8/rhXNzrEeE_U/s1600/Mapa-Reconquista-siglo-XIII.jpg",
+        "description": "",
+        "alt": "Map of Castilian expansion"
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "Christians and Muslims",
+      "text": [
+        {
+          "text": "Toleration, Generally",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Rodrigo Diaz de Viva (El Cid), 1043 - 1099",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "12th Century Renaissance",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-dndIkUFqvgA/VH94lNG4r8I/AAAAAAAAAX8/rhXNzrEeE_U/s1600/Mapa-Reconquista-siglo-XIII.jpg",
+        "description": "",
+        "alt": "Map of Castilian expansion"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "Christians and Muslims",
+      "text": [
+        {
+          "text": "Toleration, Generally",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Rodrigo Diaz de Viva (El Cid), 1043 - 1099",
+          "color": "lightgrey"
+        },
+        {
+          "text": "12th Century Renaissance",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Estatua_del_Cid_%28Burgos%29.jpg",
+        "description": "Statue of El Cid",
+        "alt": "Statue of El Cid"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "Christians and Muslims",
+      "text": [
+        {
+          "text": "Toleration, Generally",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Rodrigo Diaz de Viva (El Cid), 1043 - 1099",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "12th Century Renaissance",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-dndIkUFqvgA/VH94lNG4r8I/AAAAAAAAAX8/rhXNzrEeE_U/s1600/Mapa-Reconquista-siglo-XIII.jpg",
+        "description": "",
+        "alt": "Map of Castilian expansion"
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "title": "Union of Castile and Aragon",
+      "text": [
+        {
+          "text": "Castilian Succession Dispute",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ferdinand of Aragon and Isabella of Castile (1469, 1479)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Conquest of Granada (1492)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-dndIkUFqvgA/VH94lNG4r8I/AAAAAAAAAX8/rhXNzrEeE_U/s1600/Mapa-Reconquista-siglo-XIII.jpg",
+        "description": "",
+        "alt": "Map of Castilian expansion"
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "title": "Union of Castile and Aragon",
+      "text": [
+        {
+          "text": "Castilian Succession Dispute",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ferdinand of Aragon and Isabella of Castile (1469, 1479)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Conquest of Granada (1492)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-dndIkUFqvgA/VH94lNG4r8I/AAAAAAAAAX8/rhXNzrEeE_U/s1600/Mapa-Reconquista-siglo-XIII.jpg",
+        "description": "",
+        "alt": "Map of Castilian expansion"
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "title": "Union of Castile and Aragon",
+      "text": [
+        {
+          "text": "Castilian Succession Dispute",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Ferdinand of Aragon and Isabella of Castile (1469, 1479)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Conquest of Granada (1492)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-dndIkUFqvgA/VH94lNG4r8I/AAAAAAAAAX8/rhXNzrEeE_U/s1600/Mapa-Reconquista-siglo-XIII.jpg",
+        "description": "",
+        "alt": "Map of Castilian expansion"
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in the Winds",
+      "subTitle": "Religious Interactions: Jews",
+      "text": [
+        {
+          "text": "The Black Death (1340s-1350s)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Jewish Attacks and Conversos",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Inquisition (1470s)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in the Winds",
+      "subTitle": "Religious Interactions: Jews",
+      "text": [
+        {
+          "text": "The Black Death (1340s-1350s)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Jewish Attacks and Conversos",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Inquisition (1470s)",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in the Winds",
+      "subTitle": "Religious Interactions: Jews",
+      "text": [
+        {
+          "text": "The Black Death (1340s-1350s)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Jewish Attacks and Conversos",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Inquisition (1470s)",
           "color": "lightgrey"
         }
       ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in the Winds",
+      "subTitle": "Religious Interactions: Muslims",
+      "text": [
+        {
+          "text": "Granada and Inquisition",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Muslim Rebellion (1499)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Forced Conversion (1501-02): Moriscos",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in the Winds",
+      "subTitle": "Religious Interactions: Muslims",
+      "text": [
+        {
+          "text": "Granada and Inquisition",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim Rebellion (1499)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Forced Conversion (1501-02): Moriscos",
+          "color": "darkslategrey"
+        }
+      ]
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "centered": true,
+      "title": "Changes in the Winds",
+      "subTitle": "Religious Interactions: Muslims",
+      "text": [
+        {
+          "text": "Granada and Inquisition",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Muslim Rebellion (1499)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Forced Conversion (1501-02): Moriscos",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "Charles V (1516-1556)",
+      "subTitle": "and early Modern Spain",
+      "text": [
+        {
+          "text": "Philip the Fair (d. 1506) and Joanna the Mad (of Spain)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Netherlands (1506)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Spain (1516)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Holy Roman Empire (1519)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dominions_House_Habsburg_abdication_Charles_V.jpg",
+        "description": "Charles V's dominions",
+        "alt": "Map of Charles V's dominions"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "Charles V (1516-1556)",
+      "subTitle": "and early Modern Spain",
+      "text": [
+        {
+          "text": "Philip the Fair (d. 1506) and Joanna the Mad (of Spain)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Netherlands (1506)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Spain (1516)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Holy Roman Empire (1519)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dominions_House_Habsburg_abdication_Charles_V.jpg",
+        "description": "Charles V's dominions",
+        "alt": "Map of Charles V's dominions"
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "split": true,
+      "title": "Charles V (1516-1556)",
+      "subTitle": "and early Modern Spain",
+      "text": [
+        {
+          "text": "Philip the Fair (d. 1506) and Joanna the Mad (of Spain)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Netherlands (1506)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Spain (1516)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Holy Roman Empire (1519)",
+          "color": "darkslategrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dominions_House_Habsburg_abdication_Charles_V.jpg",
+        "description": "Charles V's dominions",
+        "alt": "Map of Charles V's dominions"
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "split": true,
+      "title": "Charles V (1516-1556)",
+      "subTitle": "and early Modern Spain",
+      "text": [
+        {
+          "text": "Philip the Fair (d. 1506) and Joanna the Mad (of Spain)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Netherlands (1506)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Spain (1516)",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Holy Roman Empire (1519)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dominions_House_Habsburg_abdication_Charles_V.jpg",
+        "description": "Charles V's dominions",
+        "alt": "Map of Charles V's dominions"
+      }
     }
   ]
 }
