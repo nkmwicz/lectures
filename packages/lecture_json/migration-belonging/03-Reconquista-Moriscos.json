@@ -263,6 +263,7 @@
     {
       "number": 4.1,
       "slide": true,
+      "split": true,
       "title": "Christians and Muslims",
       "text": [
         {
@@ -287,6 +288,7 @@
     {
       "number": 4.2,
       "slide": true,
+      "split": true,
       "title": "Christians and Muslims",
       "text": [
         {
@@ -311,6 +313,7 @@
     {
       "number": 4.3,
       "slide": true,
+      "split": true,
       "title": "Christians and Muslims",
       "text": [
         {
@@ -335,6 +338,7 @@
     {
       "number": 5.1,
       "slide": true,
+      "split": true,
       "title": "Union of Castile and Aragon",
       "text": [
         {
@@ -359,6 +363,7 @@
     {
       "number": 5.2,
       "slide": true,
+      "split": true,
       "title": "Union of Castile and Aragon",
       "text": [
         {
@@ -383,6 +388,7 @@
     {
       "number": 5.3,
       "slide": true,
+      "split": true,
       "title": "Union of Castile and Aragon",
       "text": [
         {
