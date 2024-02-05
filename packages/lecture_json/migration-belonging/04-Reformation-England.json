@@ -1,17 +1,735 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Question_mark3.svg/348px-Question_mark3.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/df/Ulrich-Zwingli-1.jpg",
+    "https://www.worldeasyguides.com/wp-content/uploads/2014/05/Munster-on-map-of-Germany.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anthonis_Mor_001.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg"
+  ],
   "slides": [
     {
-      "number": 1.0,
-      "slide": true,
+      "number": 1,
       "intro": true,
-      "title": "The Reformation and England"
+      "slide": true,
+      "title": "The Reformation"
     },
     {
-      "number": 2.0,
+      "number": 2.1,
       "slide": true,
+      "title": "The Medieval Church",
       "centered": true,
-      "title": "Iberia After Rome"
+      "text": [
+        {
+          "text": "The Mass",
+          "color": "lightgray"
+        },
+        {
+          "text": "Purgatury",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Good Works",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Spiritual Economy",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "The Medieval Church",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Mass",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Purgatury",
+          "color": "lightgray"
+        },
+        {
+          "text": "Good Works",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Spiritual Economy",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "The Medieval Church",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Mass",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Purgatury",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Good Works",
+          "color": "lightgray"
+        },
+        {
+          "text": "The Spiritual Economy",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "title": "The Medieval Church",
+      "centered": true,
+      "text": [
+        {
+          "text": "The Mass",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Purgatury",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Good Works",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Spiritual Economy",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "title": "Early Challenges to the Church",
+      "split": true,
+      "text": [
+        {
+          "text": "John Wyclif (1328-1384)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Jan Hus (1370-1415)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Why Limited Impact?",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg",
+        "alt": "Image of John Wyclif",
+        "description": "John Wyclif"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "title": "Early Challenges to the Church",
+      "split": true,
+      "text": [
+        {
+          "text": "John Wyclif (1328-1384)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jan Hus (1370-1415)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Why Limited Impact?",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg",
+        "alt": "Image of John Wyclif",
+        "description": "John Wyclif"
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "title": "Early Challenges to the Church",
+      "split": true,
+      "text": [
+        {
+          "text": "John Wyclif (1328-1384)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Jan Hus (1370-1415)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Why Limited Impact?",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Question_mark3.svg/348px-Question_mark3.svg.png",
+        "alt": "Image of a Question Mark",
+        "description": ""
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "title": "Setting the Foundations for Change",
+      "centered": true,
+      "text": [
+        {
+          "text": "Modern Devotion",
+          "color": "lightgray"
+        },
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Humanism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Desidarius Erasmus (1466-1536)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "Setting the Foundations for Change",
+      "centered": true,
+      "text": [
+        {
+          "text": "Modern Devotion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Printing Press",
+          "color": "lightgray"
+        },
+        {
+          "text": "Religious Humanism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Desidarius Erasmus (1466-1536)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "Setting the Foundations for Change",
+      "centered": true,
+      "text": [
+        {
+          "text": "Modern Devotion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Humanism",
+          "color": "lightgray"
+        },
+        {
+          "text": "Desidarius Erasmus (1466-1536)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 4.4,
+      "slide": true,
+      "title": "Setting the Foundations for Change",
+      "centered": true,
+      "text": [
+        {
+          "text": "Modern Devotion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Religious Humanism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Desidarius Erasmus (1466-1536)",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "title": "Theology of Martin Luther (1483-1546)",
+      "split": true,
+      "text": [
+        {
+          "text": "Augustinian Monk",
+          "color": "lightgray"
+        },
+        {
+          "text": "Salvation by Grace Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Only Recourse by Faith Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Know God by Scripture Alone",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+        "alt": "Image of Martin Luther",
+        "description": "Martin Luther"
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "title": "Theology of Martin Luther (1483-1546)",
+      "split": true,
+      "text": [
+        {
+          "text": "Augustinian Monk",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salvation by Grace Alone",
+          "color": "lightgray"
+        },
+        {
+          "text": "Only Recourse by Faith Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Know God by Scripture Alone",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+        "alt": "Image of Martin Luther",
+        "description": "Martin Luther"
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "title": "Theology of Martin Luther (1483-1546)",
+      "split": true,
+      "text": [
+        {
+          "text": "Augustinian Monk",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salvation by Grace Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Only Recourse by Faith Alone",
+          "color": "lightgray"
+        },
+        {
+          "text": "Know God by Scripture Alone",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+        "alt": "Image of Martin Luther",
+        "description": "Martin Luther"
+      }
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "title": "Theology of Martin Luther (1483-1546)",
+      "split": true,
+      "text": [
+        {
+          "text": "Augustinian Monk",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Salvation by Grace Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Only Recourse by Faith Alone",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Know God by Scripture Alone",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+        "alt": "Image of Martin Luther",
+        "description": "Martin Luther"
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "title": "The Rupture",
+      "centered": true,
+      "text": [
+        {
+          "text": "Indulgences",
+          "color": "lightgray"
+        },
+        {
+          "text": "95 Theses (1517)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "title": "The Rupture",
+      "centered": true,
+      "text": [
+        {
+          "text": "Indulgences",
+          "color": "darkslategray"
+        },
+        {
+          "text": "95 Theses (1517)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "title": "The Rupture",
+      "centered": true,
+      "text": [
+        {
+          "text": "Indulgences",
+          "color": "darkslategray"
+        },
+        {
+          "text": "95 Theses (1517)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "title": "The Rupture",
+      "centered": true,
+      "text": [
+        {
+          "text": "Indulgences",
+          "color": "darkslategray"
+        },
+        {
+          "text": "95 Theses (1517)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Luther Declared a Heretic (1520)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Diet of Worms (1521)",
+          "color": "lightgray"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "lightgray"
+        },
+        {
+          "text": "Huldrych Zwingli",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Chodowiecki_Basedow_Tafel_21_c_Z.jpg",
+        "alt": "Image of Printing Press",
+        "description": "Printing Press"
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Huldrych Zwingli",
+          "color": "lightgray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ulrich-Zwingli-1.jpg",
+        "alt": "Image of Huldrych Zwingli",
+        "description": "Huldrych Zwingli"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Huldrych Zwingli",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "lightgray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.worldeasyguides.com/wp-content/uploads/2014/05/Munster-on-map-of-Germany.jpg",
+        "alt": "Map of Munster",
+        "description": "Munster"
+      }
+    },
+    {
+      "number": 7.4,
+      "slide": true,
+      "title": "The Reformation Spreads",
+      "split": true,
+      "text": [
+        {
+          "text": "Printing Press",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Huldrych Zwingli",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Anabaptists in Munster (1534-1536)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "John Calvin (1509-1564)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
+        "alt": "Image of John Calvin",
+        "description": "John Calvin"
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henry VIII (r. 1509-1547)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mary I (r. 1553-1558)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+        "alt": "Image of Henry VIII",
+        "description": "Henry VIII"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henry VIII (r. 1509-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Mary I (r. 1553-1558)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+        "alt": "Image of Edward VI",
+        "description": "Edward VI"
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henry VIII (r. 1509-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mary I (r. 1553-1558)",
+          "color": "lightgray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anthonis_Mor_001.jpg",
+        "alt": "Image of Mary I",
+        "description": "Mary I"
+      }
+    },
+    {
+      "number": 8.4,
+      "slide": true,
+      "title": "The English Reformoation",
+      "split": true,
+      "text": [
+        {
+          "text": "Henry VIII (r. 1509-1547)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Edward VI (r. 1547-1553)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Mary I (r. 1553-1558)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elizabeth I (r. 1558-1603)",
+          "color": "lightgray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
     }
   ]
 }
