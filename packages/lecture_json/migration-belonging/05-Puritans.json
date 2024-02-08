@@ -3,7 +3,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anthonis_Mor_001.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg"
   ],
   "slides": [
     {
@@ -13,6 +14,69 @@
       "title": "The Puritans"
     },
     {
+      "number": 1.1,
+      "slide": true,
+      "title": "The English Reformation",
+      "subTitle": "Arguments",
+      "centered": true,
+      "text": [
+        {
+          "text": "A Top down Reformation",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Driven by the Monarch",
+          "color": "darkslategray"
+        },
+        {
+          "text": "People did not necessarily agree with it.",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 1.1,
+      "slide": true,
+      "title": "The English Reformation",
+      "subTitle": "Arguments",
+      "centered": true,
+      "text": [
+        {
+          "text": "A Top down Reformation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Driven by the Monarch",
+          "color": "lightgrey"
+        },
+        {
+          "text": "People did not necessarily agree with it.",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 1.1,
+      "slide": true,
+      "title": "The English Reformation",
+      "subTitle": "Arguments",
+      "centered": true,
+      "text": [
+        {
+          "text": "A Top down Reformation",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Driven by the Monarch",
+          "color": "darkslategray"
+        },
+        {
+          "text": "People did not necessarily agree with it.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
       "number": 2.1,
       "slide": true,
       "title": "The English Reformation under",
@@ -20,20 +84,110 @@
       "split": true,
       "text": [
         {
-          "text": "Henry VIII (r. 1509-1547)",
-          "color": "lightgray"
+          "text": "Married to Catherine of Aragon",
+          "color": "lightgrey"
         },
         {
-          "text": "Edward VI (r. 1547-1553)",
+          "text": "Act of Supremacy & Act of Submission (1534)",
           "color": "darkslategray"
         },
         {
-          "text": "Mary I (r. 1553-1558)",
+          "text": "Thomas Cranmer, Archbishop of Canterbury (1533)",
           "color": "darkslategray"
         },
         {
-          "text": "Elizabeth I (r. 1558-1603)",
+          "text": "Basically, Catholic Church of England",
           "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+        "alt": "Image of Henry VIII",
+        "description": "Henry VIII"
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Henry VIII (r. 1509-1547)",
+      "split": true,
+      "text": [
+        {
+          "text": "Married to Catherine of Aragon",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Act of Supremacy & Act of Submission (1534)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Thomas Cranmer, Archbishop of Canterbury (1533)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Basically, Catholic Church of England",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+        "alt": "Image of Henry VIII",
+        "description": "Henry VIII"
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Henry VIII (r. 1509-1547)",
+      "split": true,
+      "text": [
+        {
+          "text": "Married to Catherine of Aragon",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Act of Supremacy & Act of Submission (1534)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Thomas Cranmer, Archbishop of Canterbury (1533)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Basically, Catholic Church of England",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+        "alt": "Image of Henry VIII",
+        "description": "Henry VIII"
+      }
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Henry VIII (r. 1509-1547)",
+      "split": true,
+      "text": [
+        {
+          "text": "Married to Catherine of Aragon",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Act of Supremacy & Act of Submission (1534)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Thomas Cranmer, Archbishop of Canterbury (1533)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Basically, Catholic Church of England",
+          "color": "lightgrey"
         }
       ],
       "image": {
@@ -50,20 +204,110 @@
       "split": true,
       "text": [
         {
-          "text": "Henry VIII (r. 1509-1547)",
+          "text": "Actual Reform",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Book of Common Prayer (1549)",
           "color": "darkslategray"
         },
         {
-          "text": "Edward VI (r. 1547-1553)",
-          "color": "lightgray"
-        },
-        {
-          "text": "Mary I (r. 1553-1558)",
+          "text": "Slowly moving from Lutheran to Calvinist",
           "color": "darkslategray"
         },
         {
-          "text": "Elizabeth I (r. 1558-1603)",
+          "text": "1552, Eucharist = purely symbolic",
           "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+        "alt": "Image of Edward VI",
+        "description": "Edward VI"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Edward VI (r. 1547-1553)",
+      "split": true,
+      "text": [
+        {
+          "text": "Actual Reform",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Book of Common Prayer (1549)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Slowly moving from Lutheran to Calvinist",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1552, Eucharist = purely symbolic",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+        "alt": "Image of Edward VI",
+        "description": "Edward VI"
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Edward VI (r. 1547-1553)",
+      "split": true,
+      "text": [
+        {
+          "text": "Actual Reform",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Book of Common Prayer (1549)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slowly moving from Lutheran to Calvinist",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1552, Eucharist = purely symbolic",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg",
+        "alt": "Image of Edward VI",
+        "description": "Edward VI"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Edward VI (r. 1547-1553)",
+      "split": true,
+      "text": [
+        {
+          "text": "Actual Reform",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Book of Common Prayer (1549)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Slowly moving from Lutheran to Calvinist",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1552, Eucharist = purely symbolic",
+          "color": "lightgrey"
         }
       ],
       "image": {
@@ -80,20 +324,68 @@
       "split": true,
       "text": [
         {
-          "text": "Henry VIII (r. 1509-1547)",
+          "text": "Reinstituted Catholicism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Signs England not yet Protestant",
           "color": "darkslategray"
         },
         {
-          "text": "Edward VI (r. 1547-1553)",
+          "text": "A Vocal Minority",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anthonis_Mor_001.jpg",
+        "alt": "Image of Mary I",
+        "description": "Mary I"
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Mary I (r. 1553-1558)",
+      "split": true,
+      "text": [
+        {
+          "text": "Reinstituted Catholicism",
           "color": "darkslategray"
         },
         {
-          "text": "Mary I (r. 1553-1558)",
-          "color": "lightgray"
+          "text": "Signs England not yet Protestant",
+          "color": "lightgrey"
         },
         {
-          "text": "Elizabeth I (r. 1558-1603)",
+          "text": "A Vocal Minority",
           "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anthonis_Mor_001.jpg",
+        "alt": "Image of Mary I",
+        "description": "Mary I"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Mary I (r. 1553-1558)",
+      "split": true,
+      "text": [
+        {
+          "text": "Reinstituted Catholicism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Signs England not yet Protestant",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A Vocal Minority",
+          "color": "lightgrey"
         }
       ],
       "image": {
@@ -110,26 +402,470 @@
       "split": true,
       "text": [
         {
-          "text": "Henry VIII (r. 1509-1547)",
+          "text": "1552 Book of Common Prayer returns",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Conservative Church Structure",
           "color": "darkslategray"
         },
         {
-          "text": "Edward VI (r. 1547-1553)",
+          "text": "Calvinist Theology",
           "color": "darkslategray"
         },
         {
-          "text": "Mary I (r. 1553-1558)",
+          "text": "Puritans",
           "color": "darkslategray"
-        },
-        {
-          "text": "Elizabeth I (r. 1558-1603)",
-          "color": "lightgray"
         }
       ],
       "image": {
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
         "alt": "Image of Elizabeth I",
         "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Elizabeth I (r. 1558-1603)",
+      "split": true,
+      "text": [
+        {
+          "text": "1552 Book of Common Prayer returns",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Conservative Church Structure",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Calvinist Theology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Puritans",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Elizabeth I (r. 1558-1603)",
+      "split": true,
+      "text": [
+        {
+          "text": "1552 Book of Common Prayer returns",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Conservative Church Structure",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Calvinist Theology",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Puritans",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "title": "The English Reformation under",
+      "subTitle": "Elizabeth I (r. 1558-1603)",
+      "split": true,
+      "text": [
+        {
+          "text": "1552 Book of Common Prayer returns",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Conservative Church Structure",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Calvinist Theology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Puritans",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "title": "Elizabeth I (r. 1558-1603)",
+      "subTitle": "Compromise and Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Elizabethan Settlement (1559)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Catholics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Puritans",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Persecution",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "title": "Elizabeth I (r. 1558-1603)",
+      "subTitle": "Compromise and Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Elizabethan Settlement (1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Catholics",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Puritans",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Persecution",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "title": "Elizabeth I (r. 1558-1603)",
+      "subTitle": "Compromise and Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Elizabethan Settlement (1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Catholics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Puritans",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Persecution",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 6.4,
+      "slide": true,
+      "title": "Elizabeth I (r. 1558-1603)",
+      "subTitle": "Compromise and Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Elizabethan Settlement (1559)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Catholics",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Puritans",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Persecution",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 7.1,
+      "slide": true,
+      "title": "James I (r. 1603-1625)",
+      "subTitle": "More Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Scottish Presbyterianism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Church Conformity: Removed Pastors and Bishops",
+          "color": "darkslategray"
+        },
+        {
+          "text": "No Bishop, No King",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/JamesIEngland.jpg",
+        "alt": "Image of James I",
+        "description": "James I"
+      }
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "title": "James I (r. 1603-1625)",
+      "subTitle": "More Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Scottish Presbyterianism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Church Conformity: Removed Pastors and Bishops",
+          "color": "lightgrey"
+        },
+        {
+          "text": "No Bishop, No King",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/JamesIEngland.jpg",
+        "alt": "Image of James I",
+        "description": "James I"
+      }
+    },
+    {
+      "number": 7.3,
+      "slide": true,
+      "title": "James I (r. 1603-1625)",
+      "subTitle": "More Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Scottish Presbyterianism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Church Conformity: Removed Pastors and Bishops",
+          "color": "darkslategray"
+        },
+        {
+          "text": "No Bishop, No King",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/JamesIEngland.jpg",
+        "alt": "Image of James I",
+        "description": "James I"
+      }
+    },
+    {
+      "number": 8.1,
+      "slide": true,
+      "title": "Puritans & Separatists",
+      "subTitle": "The Pilgrims",
+      "split": true,
+      "text": [
+        {
+          "text": "Separatists",
+          "color": "lightgrey"
+        },
+        {
+          "text": "To the Netherlands: 1609",
+          "color": "darkslategray"
+        },
+        {
+          "text": "To the Americas: 1620",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "title": "Puritans & Separatists",
+      "subTitle": "The Pilgrims",
+      "split": true,
+      "text": [
+        {
+          "text": "Separatists",
+          "color": "darkslategray"
+        },
+        {
+          "text": "To the Netherlands: 1609",
+          "color": "lightgrey"
+        },
+        {
+          "text": "To the Americas: 1620",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 8.3,
+      "slide": true,
+      "title": "Puritans & Separatists",
+      "subTitle": "The Pilgrims",
+      "split": true,
+      "text": [
+        {
+          "text": "Separatists",
+          "color": "darkslategray"
+        },
+        {
+          "text": "To the Netherlands: 1609",
+          "color": "darkslategray"
+        },
+        {
+          "text": "To the Americas: 1620",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg",
+        "alt": "Image of Elizabeth I",
+        "description": "Elizabeth I"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "title": "Charles I (r. 1625-1649)",
+      "subTitle": "Even More Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Too Catholic for English Tastes",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Arminianism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Scottish Prayer Book and Civil War",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+        "alt": "Image of Charles I",
+        "description": "Charles I"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "title": "Charles I (r. 1625-1649)",
+      "subTitle": "Even More Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Too Catholic for English Tastes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Arminianism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Scottish Prayer Book and Civil War",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+        "alt": "Image of Charles I",
+        "description": "Charles I"
+      }
+    },
+    {
+      "number": 9.1,
+      "slide": true,
+      "title": "Charles I (r. 1625-1649)",
+      "subTitle": "Even More Problems",
+      "split": true,
+      "text": [
+        {
+          "text": "Too Catholic for English Tastes",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Arminianism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Scottish Prayer Book and Civil War",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg",
+        "alt": "Image of Charles I",
+        "description": "Charles I"
       }
     }
   ]
