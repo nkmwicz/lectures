@@ -2,7 +2,9 @@
   "images": [
     "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg",
     "https://3.bp.blogspot.com/-DWW7OcJqqzo/Vhu7OoUcQ2I/AAAAAAAAADM/i-rpxFpt0FY/s1600/Munster.gif",
-    "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg"
+    "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg",
+    "https://www.ikfoundation.org/uploads/image/5-power-loom-weaving.jpg",
+    "https://4.bp.blogspot.com/-KwxpTQOUXx4/WBRbtTetWtI/AAAAAAAAAio/kJHhUDtQh2wfwxq38RjBh-2_98dhHImTQCLcB/w1200-h630-p-k-no-nu/02.JPG"
   ],
   "slides": [
     {
@@ -32,7 +34,7 @@
         }
       ],
       "image": {
-        "image": "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ireland_1450.png/440px-Ireland_1450.png",
         "caption": "The English Conquest of Ireland, 12th century",
         "alt": "The English Conquest of Ireland in the 12th century."
       }
@@ -110,7 +112,7 @@
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ireland_1450.png/440px-Ireland_1450.png",
+        "image": "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg",
         "caption": "The English Conquest of Ireland",
         "alt": "The English Conquest of Ireland"
       }
@@ -178,7 +180,7 @@
     {
       "number": 3.1,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "Industrial Revolution (1740s-1840s)",
       "text": [
         {
@@ -193,12 +195,17 @@
           "text": "Created New Class: Middle Class",
           "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://4.bp.blogspot.com/-KwxpTQOUXx4/WBRbtTetWtI/AAAAAAAAAio/kJHhUDtQh2wfwxq38RjBh-2_98dhHImTQCLcB/w1200-h630-p-k-no-nu/02.JPG",
+        "caption": "The Putting out System",
+        "alt": "Image of woman spinning wool at home."
+      }
     },
     {
       "number": 3.2,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "Industrial Revolution (1740s-1840s)",
       "text": [
         {
@@ -213,12 +220,17 @@
           "text": "Created New Class: Middle Class",
           "color": "darkslategray"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://www.ikfoundation.org/uploads/image/5-power-loom-weaving.jpg",
+        "caption": "Textile Factory",
+        "alt": "Image of a textile factory."
+      }
     },
     {
       "number": 3.3,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "Industrial Revolution (1740s-1840s)",
       "text": [
         {
@@ -233,7 +245,12 @@
           "text": "Created New Class: Middle Class",
           "color": "lightgrey"
         }
-      ]
+      ],
+      "image": {
+        "image": "https://victorian-era.org/images/victorian-mens-costumes-1.jpg",
+        "caption": "The Middle class",
+        "alt": "Image of three middle class men."
+      }
     },
     {
       "number": 5.1,
