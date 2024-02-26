@@ -355,7 +355,7 @@
       "text": [
         {
           "text": "Previous system: Out-relief",
-          "color": "darkslategray"
+          "color": "lightgrey"
         },
         {
           "text": "New System: Workhouse with bad conditions.",
@@ -364,6 +364,101 @@
         {
           "text": "Philosophy: Prevent Laziness",
           "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "centered": true,
+      "title": "Poor Law Amendment Act (1834)",
+      "text": [
+        {
+          "text": "Previous system: Out-relief",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New System: Workhouse with bad conditions.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Philosophy: Prevent Laziness",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "centered": true,
+      "title": "Poor Law Amendment Act (1834)",
+      "text": [
+        {
+          "text": "Previous system: Out-relief",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New System: Workhouse with bad conditions.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Philosophy: Prevent Laziness",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "centered": true,
+      "title": "The Potatoe Famine (1845-1852)",
+      "text": [
+        {
+          "text": "The Potatoe",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Famine",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The British Response",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "centered": true,
+      "title": "The Potatoe Famine (1845-1852)",
+      "text": [
+        {
+          "text": "The Potatoe",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Famine",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The British Response",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.1,
+      "centered": true,
+      "title": "The Potatoe Famine (1845-1852)",
+      "text": [
+        {
+          "text": "The Potatoe",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The Famine",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The British Response",
+          "color": "lightgrey"
         }
       ]
     }
