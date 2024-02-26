@@ -1,5 +1,9 @@
 {
-  "images": [],
+  "images": [
+    "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg",
+    "https://3.bp.blogspot.com/-DWW7OcJqqzo/Vhu7OoUcQ2I/AAAAAAAAADM/i-rpxFpt0FY/s1600/Munster.gif",
+    "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg"
+  ],
   "slides": [
     {
       "number": 1.0,
@@ -8,10 +12,343 @@
       "title": "Ireland, the 19th Century, & Liberalism"
     },
     {
+      "number": 2.1,
+      "slide": true,
+      "split": true,
+      "title": "The English Conquest of Ireland",
+      "subTitle": "Four Stages",
+      "text": [
+        {
+          "text": "12th Century: Anglo-Norman Invasion",
+          "color": "lightgrey"
+        },
+        {
+          "text": "17th century Ulster Plantation & Cromwellian Conquest",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Union of the Kingdoms (1801)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg",
+        "caption": "The English Conquest of Ireland, 12th century",
+        "alt": "The English Conquest of Ireland in the 12th century."
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "split": true,
+      "title": "The English Conquest of Ireland",
+      "subTitle": "Four Stages",
+      "text": [
+        {
+          "text": "12th Century: Anglo-Norman Invasion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "17th century Ulster Plantation & Cromwellian Conquest",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Union of the Kingdoms (1801)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": " https://3.bp.blogspot.com/-DWW7OcJqqzo/Vhu7OoUcQ2I/AAAAAAAAADM/i-rpxFpt0FY/s1600/Munster.gif",
+        "caption": "Ulster Plantation",
+        "alt": "Map of the Ulster Plantation in the 17th century."
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "split": true,
+      "title": "The English Conquest of Ireland",
+      "subTitle": "Four Stages",
+      "text": [
+        {
+          "text": "12th Century: Anglo-Norman Invasion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "17th century Ulster Plantation & Cromwellian Conquest",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Union of the Kingdoms (1801)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.gutenberg.org/files/53916/53916-h/images/map.jpg",
+        "caption": "Ulster Plantation",
+        "alt": "Map of the Ulster Plantation in the 17th century."
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "split": true,
+      "title": "The English Conquest of Ireland",
+      "subTitle": "Four Stages",
+      "text": [
+        {
+          "text": "12th Century: Anglo-Norman Invasion",
+          "color": "darkslategray"
+        },
+        {
+          "text": "17th century Ulster Plantation & Cromwellian Conquest",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Union of the Kingdoms (1801)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ireland_1450.png/440px-Ireland_1450.png",
+        "caption": "The English Conquest of Ireland",
+        "alt": "The English Conquest of Ireland"
+      }
+    },
+    {
       "number": 2.0,
       "slide": true,
       "centered": true,
-      "title": "The English Conquest of Ireland"
+      "title": "Nationalism",
+      "text": [
+        {
+          "text": "French Revolution and Nationalism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Irish Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The 'Irish Question' and Britain",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "centered": true,
+      "title": "Nationalism",
+      "text": [
+        {
+          "text": "French Revolution and Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Irish Nationalism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The 'Irish Question' and Britain",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "centered": true,
+      "title": "Nationalism",
+      "text": [
+        {
+          "text": "French Revolution and Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Irish Nationalism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "The 'Irish Question' and Britain",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "centered": true,
+      "title": "Industrial Revolution (1740s-1840s)",
+      "text": [
+        {
+          "text": "Textiles & Putting Out System",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Factories & Steam Engines",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Created New Class: Middle Class",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "Industrial Revolution (1740s-1840s)",
+      "text": [
+        {
+          "text": "Textiles & Putting Out System",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Factories & Steam Engines",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Created New Class: Middle Class",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "centered": true,
+      "title": "Industrial Revolution (1740s-1840s)",
+      "text": [
+        {
+          "text": "Textiles & Putting Out System",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Factories & Steam Engines",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Created New Class: Middle Class",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "centered": true,
+      "title": "Middle Class Philosophy",
+      "text": [
+        {
+          "text": "Men work & Women take care of children",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expand the Franchise",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Laissez-Fair Ideology",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Moral View of Poverty",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "centered": true,
+      "title": "Poor Law Amendment Act (1834)",
+      "text": [
+        {
+          "text": "Previous system: Out-relief",
+          "color": "darkslategray"
+        },
+        {
+          "text": "New System: Workhouse with bad conditions.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Philosophy: Prevent Laziness",
+          "color": "darkslategray"
+        }
+      ]
     }
   ]
 }
