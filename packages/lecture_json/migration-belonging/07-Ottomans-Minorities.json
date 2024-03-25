@@ -468,7 +468,47 @@
       }
     },
     {
-      "number": 7.0,
+      "number": 7.1,
+      "slide": true,
+      "centered": true,
+      "title": "Tanzimat Reforms (1839-1876)",
+      "text": [
+        {
+          "text": "Modernization Reforms",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Elimintated legal distinctions between Muslims and non-Muslims",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Constitution (1876) revoked (1878) after Russo-Turkish War",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.2,
+      "slide": true,
+      "centered": true,
+      "title": "Tanzimat Reforms (1839-1876)",
+      "text": [
+        {
+          "text": "Modernization Reforms",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elimintated legal distinctions between Muslims and non-Muslims",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ottoman Constitution (1876) revoked (1878) after Russo-Turkish War",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 7.3,
       "slide": true,
       "centered": true,
       "title": "Tanzimat Reforms (1839-1876)",
@@ -483,12 +523,58 @@
         },
         {
           "text": "Ottoman Constitution (1876) revoked (1878) after Russo-Turkish War",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ]
     },
     {
-      "number": 8.0,
+      "number": 8.1,
+      "slide": true,
+      "split": true,
+      "title": "The First World War (1914-1918)",
+      "text": [
+        {
+          "text": "Out of Balkan Crisis with Austria-Hungary",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ottoman Empire join Central Powers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Britain Promises Greece land in Anatolia for Support",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.fasttrackteaching.com/ffap/Unit_7_WW1/089_Map_WW_I_color_crop_30.gif"
+      }
+    },
+    {
+      "number": 8.2,
+      "slide": true,
+      "split": true,
+      "title": "The First World War (1914-1918)",
+      "text": [
+        {
+          "text": "Out of Balkan Crisis with Austria-Hungary",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Empire join Central Powers",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Britain Promises Greece land in Anatolia for Support",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.fasttrackteaching.com/ffap/Unit_7_WW1/089_Map_WW_I_color_crop_30.gif"
+      }
+    },
+    {
+      "number": 8.3,
       "slide": true,
       "split": true,
       "title": "The First World War (1914-1918)",
@@ -503,7 +589,7 @@
         },
         {
           "text": "Britain Promises Greece land in Anatolia for Support",
-          "color": "darkslategray"
+          "color": "lightgrey"
         }
       ],
       "image": {
