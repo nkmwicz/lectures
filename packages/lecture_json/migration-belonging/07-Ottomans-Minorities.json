@@ -1,7 +1,8 @@
 {
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/5/50/4KJUSTINIAN.png",
-    "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg"
+    "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg",
+    "https://www.worldatlas.com/upload/b2/57/15/untitled-design-321.jpg"
   ],
   "slides": [
     {
@@ -119,23 +120,72 @@
       }
     },
     {
-      "number": 2.0,
+      "number": 2.1,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "The Ottoman Empire (1299-1683)",
       "text": [
         {
-          "text": "Islamic Empire"
+          "text": "Islamic Empire",
+          "color": "lightgrey"
         },
         {
-          "text": "Conquest of Constantinople (1453)"
+          "text": "Conquest of Constantinople (1453)",
+          "color": "darkslategray"
         },
         {
-          "text": "Expansion into Europe"
+          "text": "Expansion into Europe",
+          "color": "darkslategray"
         }
       ],
       "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg"
+        "image": "https://www.worldatlas.com/upload/b2/57/15/untitled-design-321.jpg"
+      }
+    },
+    {
+      "number": 2.0,
+      "slide": true,
+      "split": true,
+      "title": "The Ottoman Empire (1299-1683)",
+      "text": [
+        {
+          "text": "Islamic Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Conquest of Constantinople (1453)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Expansion into Europe",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.worldatlas.com/upload/b2/57/15/untitled-design-321.jpg"
+      }
+    },
+    {
+      "number": 2.0,
+      "slide": true,
+      "split": true,
+      "title": "The Ottoman Empire (1299-1683)",
+      "text": [
+        {
+          "text": "Islamic Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Conquest of Constantinople (1453)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Expansion into Europe",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.worldatlas.com/upload/b2/57/15/untitled-design-321.jpg"
       }
     },
     {
