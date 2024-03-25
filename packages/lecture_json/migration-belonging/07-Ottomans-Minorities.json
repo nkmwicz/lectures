@@ -122,7 +122,21 @@
       "number": 2.0,
       "slide": true,
       "centered": true,
-      "title": "The Ottoman Empire (1299-1683)"
+      "title": "The Ottoman Empire (1299-1683)",
+      "text": [
+        {
+          "text": "Islamic Empire"
+        },
+        {
+          "text": "Conquest of Constantinople (1453)"
+        },
+        {
+          "text": "Expansion into Europe"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg"
+      }
     },
     {
       "number": 3.0,
