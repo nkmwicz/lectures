@@ -2,7 +2,8 @@
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/5/50/4KJUSTINIAN.png",
     "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg",
-    "https://www.worldatlas.com/upload/b2/57/15/untitled-design-321.jpg"
+    "https://www.worldatlas.com/upload/b2/57/15/untitled-design-321.jpg",
+    "https://alphahistory.com/worldwar1/wp-content/uploads/2012/06/balkans.jpg"
   ],
   "slides": [
     {
@@ -191,7 +192,7 @@
     {
       "number": 3.0,
       "slide": true,
-      "centered": true,
+      "split": true,
       "title": "The Ottoman Empire (1683-1922)",
       "text": [
         {
@@ -200,43 +201,417 @@
         {
           "text": "A New Russian Enemy 'Protecting' Orthodox Christians"
         }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/originals/de/6b/62/de6b62455c0af32310c08ee65d0b35f2.jpg"
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "centered": true,
+      "title": "Minorities Communities in the Ottoman Empire",
+      "text": [
+        {
+          "text": "Dhimmi: Non-Muslims living under Islamic rule",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Greek Orthodox Christians, Armenian Christians, Serbian Orthodox Christians, Latin-Rite Catholics etc.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Millets: Autonomous religious communities",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Foreign protection over certain millets.",
+          "color": "darkslategray"
+        }
       ]
     },
     {
-      "number": 4.0,
+      "number": 4.2,
       "slide": true,
       "centered": true,
-      "title": "Minorities in the Ottoman Empire"
+      "title": "Minorities Communities in the Ottoman Empire",
+      "text": [
+        {
+          "text": "Dhimmi: Non-Muslims living under Islamic rule",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Greek Orthodox Christians, Armenian Christians, Serbian Orthodox Christians, Latin-Rite Catholics etc.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Millets: Autonomous religious communities",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Foreign protection over certain millets.",
+          "color": "darkslategray"
+        }
+      ]
     },
     {
-      "number": 5.0,
+      "number": 4.3,
       "slide": true,
       "centered": true,
-      "title": "The Greek War of Independence (1821-1832)"
+      "title": "Minorities Communities in the Ottoman Empire",
+      "text": [
+        {
+          "text": "Dhimmi: Non-Muslims living under Islamic rule",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Greek Orthodox Christians, Armenian Christians, Serbian Orthodox Christians, Latin-Rite Catholics etc.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Millets: Autonomous religious communities",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Foreign protection over certain millets.",
+          "color": "darkslategray"
+        }
+      ]
     },
     {
-      "number": 6.0,
+      "number": 4.4,
       "slide": true,
       "centered": true,
-      "title": "Series of Independence Movements"
+      "title": "Minorities Communities in the Ottoman Empire",
+      "text": [
+        {
+          "text": "Dhimmi: Non-Muslims living under Islamic rule",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Greek Orthodox Christians, Armenian Christians, Serbian Orthodox Christians, Latin-Rite Catholics etc.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Millets: Autonomous religious communities",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Foreign protection over certain millets.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Greek War of Independence (1821-1832)",
+      "text": [
+        {
+          "text": "Nationalist Uprising: Hellenism",
+          "color": "lightgrey"
+        },
+        {
+          "text": "small 1821 uprising inspires all of Greece",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Success by 1826",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French, British, and Russian intervention and ",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Greek War of Independence (1821-1832)",
+      "text": [
+        {
+          "text": "Nationalist Uprising: Hellenism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "small 1821 uprising inspires all of Greece",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Ottoman Success by 1826",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French, British, and Russian intervention and ",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Greek War of Independence (1821-1832)",
+      "text": [
+        {
+          "text": "Nationalist Uprising: Hellenism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "small 1821 uprising inspires all of Greece",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Success by 1826",
+          "color": "lightgrey"
+        },
+        {
+          "text": "French, British, and Russian intervention and ",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 5.4,
+      "slide": true,
+      "centered": true,
+      "title": "The Greek War of Independence (1821-1832)",
+      "text": [
+        {
+          "text": "Nationalist Uprising: Hellenism",
+          "color": "darkslategray"
+        },
+        {
+          "text": "small 1821 uprising inspires all of Greece",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Success by 1826",
+          "color": "darkslategray"
+        },
+        {
+          "text": "French, British, and Russian intervention and ",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 6.1,
+      "slide": true,
+      "split": true,
+      "title": "Series of Independence Movements",
+      "text": [
+        {
+          "text": "Serbia (1867)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Romanian Independence (1878)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bulgaria (1908)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://alphahistory.com/worldwar1/wp-content/uploads/2012/06/balkans.jpg"
+      }
+    },
+    {
+      "number": 6.2,
+      "slide": true,
+      "split": true,
+      "title": "Series of Independence Movements",
+      "text": [
+        {
+          "text": "Serbia (1867)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Romanian Independence (1878)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Bulgaria (1908)",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://alphahistory.com/worldwar1/wp-content/uploads/2012/06/balkans.jpg"
+      }
+    },
+    {
+      "number": 6.3,
+      "slide": true,
+      "split": true,
+      "title": "Series of Independence Movements",
+      "text": [
+        {
+          "text": "Serbia (1867)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Romanian Independence (1878)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Bulgaria (1908)",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://alphahistory.com/worldwar1/wp-content/uploads/2012/06/balkans.jpg"
+      }
     },
     {
       "number": 7.0,
       "slide": true,
       "centered": true,
-      "title": "Tanzimat Reforms (1839-1876)"
+      "title": "Tanzimat Reforms (1839-1876)",
+      "text": [
+        {
+          "text": "Modernization Reforms",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Elimintated legal distinctions between Muslims and non-Muslims",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Constitution (1876) revoked (1878) after Russo-Turkish War",
+          "color": "darkslategray"
+        }
+      ]
     },
     {
       "number": 8.0,
       "slide": true,
-      "centered": true,
-      "title": "The Balkan Wars (1912-1913) & The First World War (1914-1918)"
+      "split": true,
+      "title": "The First World War (1914-1918)",
+      "text": [
+        {
+          "text": "Out of Balkan Crisis with Austria-Hungary",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Ottoman Empire join Central Powers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Britain Promises Greece land in Anatolia for Support",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://www.fasttrackteaching.com/ffap/Unit_7_WW1/089_Map_WW_I_color_crop_30.gif"
+      }
     },
     {
-      "number": 8.0,
+      "number": 9.1,
       "slide": true,
       "centered": true,
-      "title": "The Balkan Wars (1912-1913)"
+      "title": "The Young Turks Revolution (1908-1918)",
+      "text": [
+        {
+          "text": "1908 Constitution",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1914 Ottoman Empire joins Central Powers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1918 Armistice",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Government collapses & Turkish Nationalist Party takes over",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 9.2,
+      "slide": true,
+      "centered": true,
+      "title": "The Young Turks Revolution (1908-1918)",
+      "text": [
+        {
+          "text": "1908 Constitution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1914 Ottoman Empire joins Central Powers",
+          "color": "lightgrey"
+        },
+        {
+          "text": "1918 Armistice",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Government collapses & Turkish Nationalist Party takes over",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 9.3,
+      "slide": true,
+      "centered": true,
+      "title": "The Young Turks Revolution (1908-1918)",
+      "text": [
+        {
+          "text": "1908 Constitution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1914 Ottoman Empire joins Central Powers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1918 Armistice",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Government collapses & Turkish Nationalist Party takes over",
+          "color": "darkslategray"
+        }
+      ]
+    },
+    {
+      "number": 9.4,
+      "slide": true,
+      "centered": true,
+      "title": "The Young Turks Revolution (1908-1918)",
+      "text": [
+        {
+          "text": "1908 Constitution",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1914 Ottoman Empire joins Central Powers",
+          "color": "darkslategray"
+        },
+        {
+          "text": "1918 Armistice",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Government collapses & Turkish Nationalist Party takes over",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 10.1,
+      "slide": true,
+      "centered": true,
+      "title": "The Greco-Turkish War (1919-1922)",
+      "text": [{}]
     }
   ]
 }
