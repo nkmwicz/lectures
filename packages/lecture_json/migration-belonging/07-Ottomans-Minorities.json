@@ -1,17 +1,178 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/50/4KJUSTINIAN.png",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg"
+  ],
   "slides": [
     {
       "number": 1.0,
       "slide": true,
       "intro": true,
-      "title": "The Ottoman Empire and Minorities"
+      "title": "The Ottoman Empire, Minorities, and Greece"
+    },
+    {
+      "number": 1.1,
+      "slide": true,
+      "split": true,
+      "title": "The Byzantine Empire (330-1453)",
+      "text": [
+        {
+          "text": "The Eastern Roman Empire",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Greek Speaking.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Orthodox Christianity",
+          "color": "darkslategray"
+        },
+        {
+          "text": "diminished by 1450",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/4KJUSTINIAN.png"
+      }
+    },
+    {
+      "number": 1.2,
+      "slide": true,
+      "split": true,
+      "title": "The Byzantine Empire (330-1453)",
+      "text": [
+        {
+          "text": "The Eastern Roman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Greek Speaking.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Orthodox Christianity",
+          "color": "darkslategray"
+        },
+        {
+          "text": "diminished by 1450",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/4KJUSTINIAN.png"
+      }
+    },
+    {
+      "number": 1.3,
+      "slide": true,
+      "split": true,
+      "title": "The Byzantine Empire (330-1453)",
+      "text": [
+        {
+          "text": "The Eastern Roman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Greek Speaking.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Orthodox Christianity",
+          "color": "lightgrey"
+        },
+        {
+          "text": "diminished by 1450",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/4KJUSTINIAN.png"
+      }
+    },
+    {
+      "number": 1.4,
+      "slide": true,
+      "split": true,
+      "title": "The Byzantine Empire (330-1453)",
+      "text": [
+        {
+          "text": "The Eastern Roman Empire",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Greek Speaking.",
+          "color": "darkslategray"
+        },
+        {
+          "text": "Orthodox Christianity",
+          "color": "darkslategray"
+        },
+        {
+          "text": "diminished by 1450",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg"
+      }
     },
     {
       "number": 2.0,
       "slide": true,
       "centered": true,
       "title": "The Ottoman Empire (1299-1683)"
+    },
+    {
+      "number": 3.0,
+      "slide": true,
+      "centered": true,
+      "title": "The Ottoman Empire (1683-1922)",
+      "text": [
+        {
+          "text": "Devistating outcome of Siege of Vienna (1683-1699)"
+        },
+        {
+          "text": "A New Russian Enemy 'Protecting' Orthodox Christians"
+        }
+      ]
+    },
+    {
+      "number": 4.0,
+      "slide": true,
+      "centered": true,
+      "title": "Minorities in the Ottoman Empire"
+    },
+    {
+      "number": 5.0,
+      "slide": true,
+      "centered": true,
+      "title": "The Greek War of Independence (1821-1832)"
+    },
+    {
+      "number": 6.0,
+      "slide": true,
+      "centered": true,
+      "title": "Series of Independence Movements"
+    },
+    {
+      "number": 7.0,
+      "slide": true,
+      "centered": true,
+      "title": "Tanzimat Reforms (1839-1876)"
+    },
+    {
+      "number": 8.0,
+      "slide": true,
+      "centered": true,
+      "title": "The Balkan Wars (1912-1913) & The First World War (1914-1918)"
+    },
+    {
+      "number": 8.0,
+      "slide": true,
+      "centered": true,
+      "title": "The Balkan Wars (1912-1913)"
     }
   ]
 }
