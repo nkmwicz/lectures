@@ -3,7 +3,8 @@
     "https://upload.wikimedia.org/wikipedia/commons/5/50/4KJUSTINIAN.png",
     "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eastern_Mediterranean_1450.svg",
     "https://www.worldatlas.com/upload/b2/57/15/untitled-design-321.jpg",
-    "https://alphahistory.com/worldwar1/wp-content/uploads/2012/06/balkans.jpg"
+    "https://alphahistory.com/worldwar1/wp-content/uploads/2012/06/balkans.jpg",
+    "https://msnikkijones.weebly.com/uploads/2/6/8/9/26890513/editor/world-war-one.gif?1491998499"
   ],
   "slides": [
     {
@@ -196,10 +197,31 @@
       "title": "The Ottoman Empire (1683-1922)",
       "text": [
         {
-          "text": "Devistating outcome of Siege of Vienna (1683-1699)"
+          "text": "Devistating outcome of Siege of Vienna (1683-1699)",
+          "color": "lightgrey"
         },
         {
-          "text": "A New Russian Enemy 'Protecting' Orthodox Christians"
+          "text": "A New Russian Enemy 'Protecting' Orthodox Christians",
+          "color": "darkslategray"
+        }
+      ],
+      "image": {
+        "image": "https://i.pinimg.com/originals/de/6b/62/de6b62455c0af32310c08ee65d0b35f2.jpg"
+      }
+    },
+    {
+      "number": 3.0,
+      "slide": true,
+      "split": true,
+      "title": "The Ottoman Empire (1683-1922)",
+      "text": [
+        {
+          "text": "Devistating outcome of Siege of Vienna (1683-1699)",
+          "color": "darkslategray"
+        },
+        {
+          "text": "A New Russian Enemy 'Protecting' Orthodox Christians",
+          "color": "lightgrey"
         }
       ],
       "image": {
